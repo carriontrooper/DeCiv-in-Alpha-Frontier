@@ -4,5 +4,14 @@
 		"uniques": [
 			"Double movement in [Hills]"
 		],
-	}
+	},
+	{
+		"name": "Clansman",
+		"uniques": [
+			"Clansman",
+			"Earn [10]% of [military] opponent's [Cost] as [Gold] for kills",
+			"[-50]% XP gained from combat",
+			"[Great General] is earned [250]% faster"
+		]
+	},
 ]
