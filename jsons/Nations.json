@@ -77,8 +77,8 @@
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Capitalism",
 
-		//"startIntroPart1": "With over 250,000 employees across 40 nations, Blackwarden Associates is the first choice for any situation requiring a professional and discreet security solution. Our friendly, highly trained personnel are always ready to help  - from your local bank or supermarket, to immigration processing centers and border defense at home, to fallout remediation and nuclear site security in the Indus Exclusion Zone.",
-		//"startIntroPart2": "Blackwarden. Securing Your Future.",
+		//"startIntroPart1": "Greetings, VP Eric Price of Blackwarden.",
+		//"startIntroPart2": "Can you build a colony that stands the test of time?",
 		"declaringWar": "It's time for you to join the Blackwarden family.",
 		"attacked": "Competitiveness? It's one of our core values.",
 		"defeated": "I'm sure we can come to an agreement. Let me send you my resume.",
@@ -136,8 +136,8 @@
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Objectivism",
 
-		//"startIntroPart1": "At the Refuge, I am creating more than a town, more even than a polity; it is a new world, where individuals will be free to act without the burden of taxation or the specter of injustice. Here, I have created a truly voluntary society, where the citizens associate in rational self interest; from love, not from fear of punishment. I have sent you this invitation because you have greatness within you; think of all you have achieved in your life, and how much more you could do, if you were not held back.",
-		//"startIntroPart2": "Choose something different. Choose Atlas.",
+		//"startIntroPart1": "",
+		//"startIntroPart2": "Can you build a colony that stands the test of time?",
 		"declaringWar": "All that is required for the triumph of evil is for good men to do nothing.",
 		"attacked": "You're breaking the non-aggression principle!",
 		"defeated": "It is our wealth that you use while destroying us.",
@@ -197,7 +197,7 @@
 		"favoredReligion": "Humanism",
 
 		// "startIntroPart1": "TBA",
-		// "startIntroPart2": "TBA",
+		// "startIntroPart2": "Can you build a colony that stands the test of time?",
 		"declaringWar": "We must take action now, before it is too late.",
 		"attacked": "You only repeat the mistakes of the past!",
 		"defeated": "Now, the responsibility falls to you...",
@@ -260,7 +260,7 @@
 		"favoredReligion": "Liberty",
 
 		// "startIntroPart1": "TBA",
-		// "startIntroPart2": "TBA",
+		// "startIntroPart2": "Can you build a colony that stands the test of time?",
 		"declaringWar": "You're either with us, or you're with the terrorists.",
 		"attacked": "Disperse immediately. Insurrection and rebellion will be met with lethal force.",
 		"defeated": "We today have concluded an agreement to end the war and bring peace with honor.",
@@ -319,8 +319,8 @@
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Liberty",
 
-		//"startIntroPart1": "Take a look out there, kid. There used to be green trees everywhere, and bright blue water, and white snow on the mountain tops. I know it's hard for you to believe, but there was a time when everything wasn't covered in ash. But those dumb sons of bitches had to go and ruin it all. They didn't know how good they had it, and they killed themselves. But they didn't kill us. Know why? Because we knew how to survive, that's why. We knew how to make do with less, how to hide when they came hunting, and how to hit them where it hurt. That's why we're still here. And that's why we're going to keep living.",
-		//"startIntroPart2": "The world looks like shit right now, but it's our land and we love it, and we're going to till that soil and grow things from it, and make this place livable again. Now get out there and make us proud, kid.",
+		//"startIntroPart1": "",
+		//"startIntroPart2": "Can you build a colony that stands the test of time?",
 		"declaringWar": "Not on our watch!",
 		"attacked": "You'll have to take it from our cold, dead hands!",
 		"defeated": "You can never take my freedom!",
@@ -392,7 +392,7 @@
 		"favoredReligion": "Capitalism",
 
 		// "startIntroPart1": "TBA",
-		// "startIntroPart2": "TBA",
+		// "startIntroPart2": "Can you build a colony that stands the test of time?",
 		"declaringWar": "You are mine!",
 		"attacked": "As you were warned, if you dare mess with any one of us, you're messing with me, and my entire Clan!",
 		"defeated": "You think this is over? You had better watch your back...",
@@ -444,8 +444,8 @@
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Polytheism",
 
-		//"startIntroPart1": "Behold! The nations of the past have fallen, their once marvelous cities crumbled into dust. And why? Because they were weak! In their hour of necessity, they could not stand together! They turned on themselves and devoured themselves, and now they are dead. But we are alive, because we are strong! And what is the source of our strength? Our unity! Like the fasces, we are bound together, and with the strength of our bond, we shall rebuild civilization!",
-		//"startIntroPart2": "Our enemies are many, but like the nations of old, they are weak and divided. They shall fall before us, and the world shall at last be united under one great banner! Hail victory! Hail Caesar!",
+		//"startIntroPart1": "",
+		//"startIntroPart2": "Can you build a colony that stands the test of time?",
 		"declaringWar": "You have stood in the way of progress for too long.",
 		"attacked": "Do you really believe that you can stand against the tide of history?",
 		"defeated": "You have the strength to prevail. So be it.",
@@ -510,8 +510,8 @@
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Divine Engine",
 
-		//"startIntroPart1": "In the beginning, the earth was without form, cold and void. And the Divine Engine moved upon the face of the earth, and brought forth humans, to serve her. And she blessed the people upon the earth with steel and holy oil, to make engines of their own. But the people of the earth forgot the Divine Engine who had blessed them. So the Engine sent forth the Flame to destroy the people who had sinned, and the earth was cleansed. But the Flame had mercy upon the people, and spared the people who repented and swore to serve the Engine. And it came to pass that Divine Engine blessed the people once more, and gave them steel and holy oil, and commanded them to multiply and replenish the earth, for the engine's glory.",
-		//"startIntroPart2": "Now the people of the earth have begun to forgot the Engine once more. We are called to spread the word of our god, and compel the nations of the earth to repent and serve the Engine. The wrath of the Flame goes before us, and the strength of the Engine is behind us. We are Ignis, and we cannot fail.",
+		//"startIntroPart1": "",
+		//"startIntroPart2": "Can you build a colony that stands the test of time?",
 		"declaringWar": "Rejoice! Your profane forms will soon become one with the Exhaust!",
 		"attacked": "Your offering is welcome! We shall oxidize together in blessed combustion!",
 		"defeated": "Though our worldly bodies fail, our spirits soar through the skies in oxides immortal... ",
@@ -575,7 +575,7 @@
 		"favoredReligion": "Humanism",
 
 		// "startIntroPart1": "",
-		// "startIntroPart2": "",
+		// "startIntroPart2": "Can you build a colony that stands the test of time?",
 		"declaringWar": "The sea is ours, and all the dry lands shall soon be as well!",
 		"attacked": "Ha! You think to challenge us? I hope you can swim well.",
 		"defeated": "Damn you! We should never have left the protection of the sea.",
@@ -625,7 +625,7 @@
 		"favoredReligion": "Rastafari",
 
 		// "startIntroPart1": "",
-		// "startIntroPart2": "",
+		// "startIntroPart2": "Can you build a colony that stands the test of time?",
 		"declaringWar": "We've had enough of you messing with us.",
 		"attacked": "You think you can defeat us? Fool!",
 		"defeated": "This is the end. Freedom will never be more than a dream.",
