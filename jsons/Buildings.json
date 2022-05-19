@@ -10,3 +10,44 @@
 # Commonwealth: Caravan Office, Black Site, Refugee Center
 # Atlas: Survey Center
 */
+[
+	{
+		"name": "Salvage Yard",
+		"uniqueTo": "Children of Rust",
+		"hurryCostModifier": 25,
+		"requiredTech": "Engineering",
+		"uniques": [
+			"[+1 Production] from [Mine] tiles [in this city]",
+			"[+1 Production] from [Forest] tiles [in this city]",
+			"[+1 Production] from [Jungle] tiles [in this city]",
+			"[+1 Production] from [Artifacts] tiles [in this city]",
+			"[+1 Production] [in this city] <with [Titanium]>"
+		],
+		"civilopediaText": [
+			{
+				"text": "."
+			}
+		]
+	},
+	{
+		"name": "Personnel Office",
+		"replaces": "Pioneer Depot",
+		"uniqueTo": "Blackwarden",
+		"gold": 2,
+		"specialistSlots": { "Merchant": 1 },
+		"hurryCostModifier": 25,
+		"percentStatBonus": { "gold": 5 },
+		"uniques": [
+			"Prefab"
+			"[+33]% Production when constructing [Worker] units [in this city]",
+			"[+1 Happiness, +1 Culture] [in this city] <after discovering [Portable Power Sources]>",
+			"[+1 Food, +3 Production] [in this city] <after discovering [Offworld Industries]>"
+		],
+		"requiredTech": "Pioneer Administration",
+		"civilopediaText": [
+			{
+				"text": "."
+			}
+		]
+	},
+]
