@@ -1,1 +1,16 @@
-
+[
+	{
+		"name": "Narcotics",
+		"culture": 1,
+		"gold": 1,
+		"resourceType": "Luxury",
+		//"uniques": [
+		//	"Can only be created by Mercantile City-States"
+		//]
+		"civilopediaText": [
+			{
+				"text": "Hard drugs, the kind that causes long-lasting addictions and intense chemical imabalance in long-term users."
+			}
+		]
+	}
+]
