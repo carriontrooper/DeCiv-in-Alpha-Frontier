@@ -6,12 +6,37 @@
 		],
 	},
 	{
+		"name": "Advanced Guerilla Tactics",
+		"uniques": [
+			"[+20]% Strength <when fighting in [Hills] tiles>"
+		],
+	},
+	{
 		"name": "Clansman",
 		"uniques": [
 			"Clansman",
 			"Earn [10]% of [military] opponent's [Cost] as [Gold] for kills",
 			"[-50]% XP gained from combat",
 			"[Great General] is earned [250]% faster"
+		]
+	},
+	{
+		"name": "Drone Recon",
+		"uniques": [
+			"Can see over obstacles",
+			"Normal vision when embarked",
+			"[25]% XP gained from combat",
+			"Only available <if [Survey Center] is constructed>"
+		],
+		"unitTypes": [
+			"Infantry",
+			"Stealth Infantry",
+			"Sniper",
+			"Scout",
+			"Rover",
+			"Armored",
+			"Close Range Mech",
+			"Ranged Mech"
 		]
 	},
 ]
