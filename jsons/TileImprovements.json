@@ -2,3 +2,10 @@
 # Deadrock Clan: Narcotics Farm
 # Cult of Ignis: Oracle, Outpost
 */
+[
+	{
+		"name": "Narcoponics",
+		"culture": 2,
+		"uniques": ["Great Improvement", "Provides [1] [Narcotics]"]
+	}
+]
