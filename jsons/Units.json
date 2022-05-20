@@ -11,3 +11,101 @@
 # Commonwealth: Ranger
 # The Mariners: Trimaran, Privateer, Corvette, Jet Boat
 */
+[
+	{
+		"name": "Scavenger",
+		"unitType": "Infantry",
+		"uniqueTo": "Children of Rust",
+		"replaces": "Frontier Militia",
+		"movement": 2,
+		"strength": 10,
+		"cost": 40,
+		//"obsoleteTech": "Rifling",
+		"upgradesTo": "Colony Rifleman",
+		"uniques": [
+			"May upgrade to [Colony Rifleman] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Scav Training"],
+		"attackSound": "nonmetalhit",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "." }
+		]
+	},
+	{
+		"name": "Contractor",
+		"unitType": "Infantry",
+		"uniqueTo": "Blackwarden",
+		"replaces": "Colony Rifleman",
+		"movement": 2,
+		"strength": 15,
+		"interceptRange": 1,
+		"cost": 75,
+		"upgradesTo": "Exoframe Soldier",
+		"requiredTech": "Info Networks",
+		"uniques": [
+			"May upgrade to [Exoframe Soldier] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Hazard Pay", "Drone Recon"],
+		"hurryCostModifier": -25,
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "." }
+		]
+	},
+	},
+	{
+		"name": "Rover Surveyor",
+		"unitType": "Scout",
+		"uniqueTo": "Atlas",
+		"replaces": "Rover Explorer",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		//"obsoleteTech": "Rifling",
+		"upgradesTo": "Combat Rover",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Rover",
+			"[+1] Sight",
+			"Can build [Land] improvements on tiles",
+			"[+50]% Strength <when defending>",
+			"May upgrade to [Combat Rover] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Medic I"],
+		"attackSound": "nonmetalhit",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "." }
+		]
+	},
+	},
+]
