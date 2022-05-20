@@ -39,4 +39,19 @@
 			"Ranged Mech"
 		]
 	},
+	{
+		"name": "Scav Training",
+		"uniques": [
+			"Heals [25] damage if it kills a unit",
+			"[25]% XP gained from combat",
+			"Earn [100]% of killed [Military] unit's [Strength] as [Science]"
+		]
+	},
+	{
+		"name": "Hazard Pay",
+		"uniques": [
+			"Earn [-10]% of [military] opponent's [Strength] as [Gold] for kills",
+			"Can move immediately once bought"
+		]
+	}
 ]
