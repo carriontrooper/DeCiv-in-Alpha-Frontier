@@ -14,6 +14,7 @@
 	{
 		"name": "Salvage Yard",
 		"uniqueTo": "Children of Rust",
+		"production": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Engineering",
 		"uniques": [
@@ -40,7 +41,7 @@
 		"uniques": [
 			"Prefab"
 			"[+33]% Production when constructing [Worker] units [in this city]",
-			"[+1 Happiness, +1 Culture] [in this city] <after discovering [Portable Power Sources]>",
+			"[+1 Happiness, +1 Culture] [in this city] <after discovering [Stable Fission Power]>",
 			"[+1 Food, +3 Production] [in this city] <after discovering [Offworld Industries]>"
 		],
 		"requiredTech": "Pioneer Administration",
@@ -50,4 +51,148 @@
 			}
 		]
 	},
+	{
+		"name": "Survey Center",
+		"uniqueTo": "Atlas",
+		"production": 1,
+		"science": 1,
+		"happiness": 1,
+		"uniques": [
+			"All newly-trained [{Military} {Land}] units [in this city] receive the [Drone Recon] promotion",
+			//"[Infantry] units gain the [Drone Recon] promotion",
+			//"[Stealth Infantry] units gain the [Drone Recon] promotion",
+		],
+		"requiredTech": "Aerial Drones",
+		"civilopediaText": [
+			{
+				"text": "."
+			}
+		]
+	},
+	{
+		"name": "Caravan Office",
+		"uniqueTo": "Commonwealth",
+		"gold": 2,
+		"specialistSlots": { "Merchant": 2 },
+		"hurryCostModifier": 25,
+		"greatPersonPoints": { "Great Merchant": 1 },
+		"uniques": ["[+1 Gold] from [Luxury resource] tiles [in this city]"],
+		"requiredTech": "Pioneer Administration",
+		"civilopediaText": [
+			{
+				"text": "."
+			}
+		]
+	},
+	{
+		"name": "Guerilla Camp",
+		"replaces": "Frontier Armory",
+		"uniqueTo": "Enclavers",
+		"cityStrength": 10,
+		"uniques": [
+			"Prefab",
+			"New [Infantry] units start with [15] Experience [in this city]",
+			"New [Stealth Infantry] units start with [15] Experience [in this city]",
+			"All newly-trained [Infantry] units [in this city] receive the [Advanced Guerilla Tactics] promotion",
+			"All newly-trained [Stealth Infantry] units [in this city] receive the [Advanced Guerilla Tactics] promotion",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Frontier Armaments",
+		"civilopediaText": [
+			{
+				"text": "."
+			}
+		]
+	},
+	{
+		"name": "Casino",
+		"uniqueTo": "Deadrock Clan",
+		"specialistSlots": { "Merchant": 1, "Influencer": 1 },
+		"happiness": 1,
+		"uniques": [
+			"[+1 Gold] per [3] population [in this city]",
+			"[+1 Happiness, +1 Culture, +1 Gold] [in this city] <after discovering [Stable Fission Power]>",
+			"[+1 Gold] [in this city] <with [Stimulants]>",
+			"[+1 Gold] [in this city] <with [Alcohol]>",
+			"[+1 Gold] [in this city] <with [Narcotics]>",
+			"[+1 Gold] [in this city] <with [Refined Narcotics]>"
+		],
+		"requiredTech": "Currency",
+		"civilopediaText": [
+			{
+				"text": "."
+			}
+		]
+	},
+	{
+		"name": "Colosseum",
+		"replaces": "Proxy Office",
+		"uniqueTo": "Crimson Legion",
+		"happiness": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"New [Military] units start with [15] Experience [in this city]",
+			"Remove extra unhappiness from annexed cities",
+			"[+1 Happiness, +1 Culture] [in this city] <with [Stimulants]>",
+			//"Only available <in cities without a [Prison Camp]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Engineering",
+		"civilopediaText": [
+			{
+				"text": "."
+			}
+		]
+	},
+	{
+		"name": "Altar of Ignis",
+		"uniqueTo": "Cult of Ignis",
+		"replaces": "Memorial",
+		"faith": 1,
+		"cost": 40,
+		"greatPersonPoints": { "Great Visionary": 1 },
+		"requiredTech": "Habitation",
+		"uniques": [
+			"Hidden when religion is disabled",
+			"[+1 Faith] from [Promethine] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "."
+			}
+		]
+	},
+	{
+		"name": "Seastead",
+		"uniqueTo": "The Mariners",
+		"gold": 1,
+		"culture": 1,
+		"uniques": [
+			"[+10]% Production when constructing [Water] units [in this city]",
+			"New [Water] units start with [15] Experience [in this city]",
+			//"Connects trade routes over water",
+			"Must be next to [Coast]"
+		],
+		"requiredTech": "Hab-Domes",
+		"civilopediaText": [
+			{
+				"text": "."
+			}
+		]
+	},
+	{
+		"name": "Mosque",
+		"uniqueTo": "New Afrika",
+		"replaces": "Monument",
+		"culture": 2,
+		"faith": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"civilopediaText": [
+			{
+				"text": "."
+			}
+		]
+	}
 ]
