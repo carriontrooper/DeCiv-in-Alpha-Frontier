@@ -20,7 +20,7 @@
 	"preferredVictoryType": "Cultural",
 	"favoredReligion": "Ghost Dance",
 
-	"startIntroPart1": "Hau, Scarlett, leader of the Children of Rust. Your people have survived the decivilization of old Earth, scavenging the great old ruins for survival. Yet, your people endured the old Earth and prospered despite the dangers. So when you managed to salvage an unfinished colony ship, your people readily followed you to the far reaches of the stars.",
+	"startIntroPart1": "Hau, Scarlett, leader of the Children of Rust. Your people have survived the decivilization of old Earth, scavenging the great old ruins for survival. Yet, your people endured the old Earth, kept traditions old and new alive, and prospered despite the dangers. So when you managed to salvage an unfinished colony ship, your people readily followed you to the far reaches of the stars.",
 	"startIntroPart2": "Scarlett, your people dream of the open prairie and the lush forests of this new world. Will you lead them to prosper in this new world? Can you build a colony that stands the test of time?",
 	"declaringWar": "Now you will reap what you have sown.",
 	"attacked": "We never expected that you could leave us to live in peace. Destruction is in your blood.",
@@ -39,6 +39,7 @@
 		//"[Civilian] units gain the [Urban Warfare] promotion",
 		"[Armored] units gain the [Urban Warfare] promotion",
 		"[Infantry] units gain the [Urban Warfare] promotion",
+		"[Stealth Infantry] units gain the [Urban Warfare] promotion",
 		//"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 		"Starts with [Xenobiology]"
 	],
@@ -73,12 +74,12 @@
 	{
 		"name": "Blackwarden",
 		"leaderName": "Eric Price",
-		"adjective": ["Mercenary"],
+		"adjective": ["Blackwarden"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Capitalism",
 
-		//"startIntroPart1": "Greetings, VP Eric Price of Blackwarden.",
-		//"startIntroPart2": "Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Greetings, VP Eric Price of Blackwarden. Since before the decivilization of old Earth, your company had thrived in the private security business. Your skilled operators helped you survive and prosper in the wastelands of old Earth, using whatever means necessary. When you finally built your own colony ship, it is to look for new prospects in the stars.",
+		"startIntroPart2": "VP Eric, this new world is in dire need of your private military services. Will you thrive upon the conflict in this new planet? Can you build a colony that stands the test of time?",
 		"declaringWar": "It's time for you to join the Blackwarden family.",
 		"attacked": "Competitiveness? It's one of our core values.",
 		"defeated": "I'm sure we can come to an agreement. Let me send you my resume.",
@@ -136,8 +137,8 @@
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Objectivism",
 
-		//"startIntroPart1": "",
-		//"startIntroPart2": "Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Greetings, CEO John Kruger of Atlas Corporation. Your vault had sheltered brilliant citizens, who managed to rebuild in the midst of the decivilization of old Earth. In time, your society developed in scientific leaps and bounds, up to the point that space colonization is feasible.",
+		"startIntroPart2": "CEO John, your scientists and engineers desire to study and learn from this new planet. Will you achieve great advances in science once more? Can you build a colony that stands the test of time?",
 		"declaringWar": "All that is required for the triumph of evil is for good men to do nothing.",
 		"attacked": "You're breaking the non-aggression principle!",
 		"defeated": "It is our wealth that you use while destroying us.",
@@ -319,8 +320,8 @@
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Liberty",
 
-		//"startIntroPart1": "",
-		//"startIntroPart2": "Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Hello, First Citizen Timothy D. West of the Enclave. Your people were once doomsday preppers, independent survivalists who banded together to brave the decivilization of old Earth. Now that you've managed to bring back a semblance of civilization, it is time to reach the stars in your own colony ship.",
+		"startIntroPart2": "First Citizen Timothy, your people seek a new beginning in this planet. Will you keep your freedom in this exoplanet? Can you build a colony that stands the test of time?",
 		"declaringWar": "Not on our watch!",
 		"attacked": "You'll have to take it from our cold, dead hands!",
 		"defeated": "You can never take my freedom!",
@@ -350,7 +351,7 @@
 			//"Units ignore terrain costs when moving into any tile with Hills",
 			"No Maintenance costs for improvements in [Hill] tiles",
 			"[{Military} {Land}] units gain the [Hill Guerillas] promotion",
-			"[Infantry] units gain the [Hill Guerillas] promotion",
+			//"[Infantry] units gain the [Hill Guerillas] promotion",
 			"Starts with [Xenogeology]"
 		],
 		"cities": [
@@ -410,6 +411,7 @@
 			"[+1] Sight <for [{Military} {Land}] units>",
 			"City-State Influence recovers at twice the normal rate",
 			"[Infantry] units gain the [Clansman] promotion",
+			"[Stealth Infantry] units gain the [Clansman] promotion",
 			"[Scout] units gain the [Clansman] promotion"
 		],
 		"cities": [
@@ -505,7 +507,7 @@
 	{
 		"name": "Cult of Ignis",
 		"leaderName": "Ignitor Martina",
-		"adjective": ["Cult"],
+		"adjective": ["Ignis"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Divine Engine",
@@ -525,11 +527,11 @@
 		//"style": "Ignis",
 		"uniqueName": "Road Warriors",
 		"uniques": [
-			"[-33]% maintenance costs <for [Armor] units>",
-			"Starts with [Machinery]",
+			"[-33]% maintenance costs <for [Armored] units>",
+			"Starts with [Portable Power Sources]",
 			"[+2 Culture] from every [Strategic resource]",
-			"[+10]% [Culture] from every [Coal Plant]",
-			"[-1 Science] [in all cities] <before discovering [Writing]>"
+			"[+2] [Culture] from every [Derrick]",
+			"[-1 Science] [in all cities] <before discovering [Computing]>"
 		],
 		"cities": [
 			"Gastown",
@@ -569,7 +571,7 @@
 	{
 		"name": "The Mariners",
 		"leaderName": "Deacon Hopper",
-		"adjective": ["Marine"],
+		"adjective": ["Mariner"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Humanism",
@@ -595,7 +597,7 @@
 			"Defense bonus when embarked <for [All] units>",
 			"[Infantry] units gain the [Amphibious] promotion",
 			"[Stealth Infantry] units gain the [Amphibious] promotion",
-			"Starts with [Sailing]"
+			"Starts with [Hydrodynamics]"
 		],
 		"cities": [
 			"Dryplace",
