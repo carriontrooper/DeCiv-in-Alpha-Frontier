@@ -6,6 +6,18 @@
 	{
 		"name": "Narcoponics",
 		"culture": 2,
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Hill",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium"
+		],
 		"uniques": ["Great Improvement", "Provides [1] [Narcotics]"]
 	}
 ]
