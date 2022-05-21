@@ -53,5 +53,46 @@
 			"Earn [-10]% of [military] opponent's [Strength] as [Gold] for kills",
 			"Can move immediately once bought"
 		]
-	}
+	},
+	{
+		"name": "[Colonial Ranger] ability",
+		"uniques": [
+			"[+20]% Strength <when fighting in [Friendly Land] tiles>",
+			"Bonus for units in 2 tile radius 15%",
+			"[50]% XP gained from combat",
+			"Can construct [Fort]",
+			"Uncapturable"
+		]
+	},
+	{
+		"name": "Gas Filter",
+		"uniques": [
+			"No defensive terrain penalty <in [Miasma] tiles>",
+			"No defensive terrain penalty <in [Fallout] tiles>"
+		]
+	},
+	{
+		"name": "Legionnaire Training",
+		"uniques": [
+			"[+50]% Strength <vs cities>",
+			"[+50]% Strength <vs [Infantry] units>",
+			"[+50]% Strength <vs [Stealth Infantry] units>",
+			"[+50]% Strength <vs [Sniper] units>"
+		]
+	},
+	{
+		"name": "[War Buggy] Crew",
+		"uniques": [
+			"[+20]% Strength <vs [Infantry] units>",
+			"[+20]% Strength <vs [Stealth Infantry] units>",
+			"[+20]% Strength <vs [Sniper] units>"
+		]
+	},
+	{
+		"name": "Raider",
+		"uniques": [
+			"[-50]% XP gained from combat",
+			"[Great General] is earned [250]% faster"
+		]
+	},
 ]
