@@ -302,7 +302,7 @@
 		"uniques": [
 			"Double movement in [Coast]",
 			"May withdraw before melee ([66]%)",
-			//"Consumes [1] [Promethine]",
+			"Consumes [1] [Promethine]",
 			"May capture killed [Water] units",
 			"Earn [33]% of the damage done to [City] units as [Gold]",
 			"Only available <in cities with a [Floating Harbor]>",
