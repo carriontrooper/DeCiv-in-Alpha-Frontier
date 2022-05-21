@@ -95,6 +95,7 @@
 			"New [Stealth Infantry] units start with [15] Experience [in this city]",
 			"All newly-trained [Infantry] units [in this city] receive the [Advanced Guerilla Tactics] promotion",
 			"All newly-trained [Stealth Infantry] units [in this city] receive the [Advanced Guerilla Tactics] promotion",
+			"All newly-trained [Sniper] units [in this city] receive the [Advanced Guerilla Tactics] promotion",
 			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Frontier Armaments",
@@ -113,9 +114,7 @@
 			"[+1 Gold] per [3] population [in this city]",
 			"[+1 Happiness, +1 Culture, +1 Gold] [in this city] <after discovering [Stable Fission Power]>",
 			"[+1 Gold] [in this city] <with [Stimulants]>",
-			"[+1 Gold] [in this city] <with [Alcohol]>",
-			"[+1 Gold] [in this city] <with [Narcotics]>",
-			"[+1 Gold] [in this city] <with [Refined Narcotics]>"
+			"[+1 Gold] [in this city] <with [Narcotics]>"
 		],
 		"requiredTech": "Currency",
 		"civilopediaText": [
