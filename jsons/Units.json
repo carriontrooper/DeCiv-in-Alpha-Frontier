@@ -72,7 +72,6 @@
 			{ "text": "." }
 		]
 	},
-	},
 	{
 		"name": "Rover Surveyor",
 		"unitType": "Scout",
@@ -107,5 +106,229 @@
 			{ "text": "." }
 		]
 	},
+	{
+		"name": "Colonial Ranger",
+		"unitType": "Infantry",
+		"uniqueTo": "Commonwealth",
+		"replaces": "Colony Rifleman",
+		"range": 1,
+		"movement": 2,
+		"strength": 16,
+		"rangedStrength": 16,
+		//"interceptRange": 1,
+		"upgradesTo": "Exoframe Soldier",
+		"requiredTech": "Next-Gen Armaments",
+		"uniques": [
+			"May upgrade to [Exoframe Soldier] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Ignore terrain cost", "Gas Filter", "[Colonial Ranger] ability"],
+		"attackSound": "shot",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "." }
+		]
+	},
+	{
+		"name": "Spec Ops",
+		"unitType": "Sniper",
+		"uniqueTo": "The Patriots",
+		"replaces": "Colony Marksman",
+		"range": 1,
+		"movement": 2,
+		"strength": 14,
+		"rangedStrength": 14,
+		//"interceptRange": 1,
+		"cost": 75,
+		"hurryCostModifier": 20,
+		"upgradesTo": "Exoframe Sniper",
+		"requiredTech": "Military Ballistics",
+		"uniques": [
+			"Only available <if [Colonial Patrol Station] is constructed>",
+			"May upgrade to [Exoframe Sniper] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Ignore terrain cost", "Amphibious", "Ambush", "Gas Filter"],
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "." }
+		]
+	},
+	{
+		"name": "Marine",
+		"uniqueTo": "The Patriots",
+		"replaces": "Colony Rifleman",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 16,
+		//"interceptRange": 1,
+		"cost": 75,
+		"upgradesTo": "Exoframe Soldier",
+		"requiredTech": "Military Ballistics",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Only available <if [Colonial Patrol Station] is constructed>",
+			"May upgrade to [Exoframe Soldier] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Amphibious", "Gas Filter"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Guerilla",
+		"unitType": "Infantry",
+		"uniqueTo": "Enclavers",
+		"replaces": "Frontier Militia",
+		"movement": 2,
+		"strength": 9,
+		//"interceptRange": 1,
+		"cost": 40,
+		//"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Colony Rifleman",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"May upgrade to [Colony Rifleman] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		//"promotions": ["Forage"],
+		"attackSound": "shot",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "." }
+		]
+	},
+	{
+		"name": "Narco Smuggler",
+		"uniqueTo": "Deadrock Clan",
+		"replaces": "Great Merchant",
+		"unitType": "Civilian",
+		"uniques": [
+			"Invisible to non-adjacent units",
+			"Can undertake a trade mission with City-State, giving a large sum of gold and [40] Influence",
+			"Can construct [Narcotics farm]",
+			"Great Person - [Gold]",
+			"Unbuildable",
+			"Uncapturable"
+		],
+		"movement": 2,
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "." }
+		]
+	},
+	{
+		"name": " Exoframe Legionnaire",
+		"unitType": "Infantry",
+		"uniqueTo": "Crimson Legion",
+		"replaces": "Militia",
+		"movement": 2,
+		"strength": 24,
+		"cost": 125,
+		"requiredTech": "Exoskeletons",
+		//"obsoleteTech": "Combined Arms",
+		"upgradesTo": "Drop Trooper",
+		"uniques": [
+			"May upgrade to [Drop Trooper] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Legionnaire Training"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "War Buggy",
+		"unitType": "Armored",
+		"uniqueTo": "Cult of Ignis",
+		"replaces": "Light Buggy",
+		"movement": 4,
+		"strength": 13,
+		"cost": 75,
+		"requiredTech": "Portable Power Sources",
+		"upgradesTo": "Anti-Air Buggy",
+		//"obsoleteTech": "Combined Arms",
+		"uniques": [
+			"[-66]% Strength <vs cities>",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Raider","[War Buggy] Crew"],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Privateer",
+		"uniqueTo": "The Mariners",
+		"replaces": "Corvette",
+		"unitType": "Close Range Water",
+		"movement": 5,
+		"strength": 35,
+		"cost": 250,
+		"requiredTech": "Alloy Microstructures",
+		"requiredResource": "Promethine",
+		//"obsoleteTech": "Steam Power",
+		"uniques": [
+			"Double movement in [Coast]",
+			"May withdraw before melee ([66]%)",
+			//"Consumes [1] [Promethine]",
+			"May capture killed [Water] units",
+			"Earn [33]% of the damage done to [City] units as [Gold]",
+			"Only available <in cities with a [Floating Harbor]>",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "shipguns"
+	},
+	{
+		"name": "Panther",
+		"unitType": "Infantry",
+		"uniqueTo": "New Afrika",
+		"replaces": "Frontier Militia",
+		"movement": 2,
+		"strength": 10,
+		//"interceptRange": 1,
+		"cost": 40,
+		"requiredTech": "Frontier Armaments",
+		//"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Colony Rifleman",
+		"uniques": [
+			"May upgrade to [Colony Rifleman] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"promotions": ["Raider"],
+		"attackSound": "machinegun"
 	},
 ]
