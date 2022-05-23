@@ -1,1 +1,3 @@
-
+[Full DeCiv credits](https://github.com/SpacedOutChicken/DeCiv-Redux/blob/main/Credits.md)
+Finagling DeCiv code to fit Alpha Frontier - [Indonesian Gentleman (AKA Carriontrooper)](https://github.com/carriontrooper)
+Unit sprite and some redone logos - [Indonesian Gentleman (AKA Carriontrooper)](https://github.com/carriontrooper)
