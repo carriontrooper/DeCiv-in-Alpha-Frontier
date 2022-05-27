@@ -56,7 +56,7 @@
 			"May upgrade to [Exoframe Soldier] through ruins-like effects",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Hazard Pay", "Drone Recon"],
+		"promotions": ["Mercenary Pay", "Hazard Pay", "Drone Recon"],
 		"hurryCostModifier": -25,
 		"attackSound": "machinegun",
 		"civilopediaText": [
