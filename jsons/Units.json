@@ -38,7 +38,7 @@
 			{
 				"Separator": true
 			},
-			{ "text": "." }
+			{ "text": "Trained to be able to procure, reuse, and most importantly, bring back a defeated enemy's gear." }
 		]
 	},
 	{
@@ -69,7 +69,7 @@
 			{
 				"Separator": true
 			},
-			{ "text": "." }
+			{ "text": "More akin to a permanently-hired mercenary unit." }
 		]
 	},
 	{
@@ -103,7 +103,7 @@
 			{
 				"Separator": true
 			},
-			{ "text": "." }
+			{ "text": "Exploring the new world, but better organized." }
 		]
 	},
 	{
@@ -134,7 +134,7 @@
 			{
 				"Separator": true
 			},
-			{ "text": "." }
+			{ "text": "Trained to defend their homeland in unison, and build forts to really secure it." }
 		]
 	},
 	{
@@ -168,7 +168,7 @@
 			{
 				"Separator": true
 			},
-			{ "text": "." }
+			{ "text": "A more all-terrain sort of sniper." }
 		]
 	},
 	{
@@ -189,7 +189,19 @@
 			"Never appears as a Barbarian unit"
 		],
 		"promotions": ["Amphibious", "Gas Filter"],
-		"attackSound": "machinegun"
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "Motivated by patriotism and not corporate pay like the Colonial sort, but still very versatile nonetheless." }
+		]
 	},
 	{
 		"name": "Guerilla",
@@ -219,7 +231,7 @@
 			{
 				"Separator": true
 			},
-			{ "text": "." }
+			{ "text": "Protecting citizens in times of peace, nasty nuisance to enemies in times of war." }
 		]
 	},
 	{
@@ -246,7 +258,7 @@
 			{
 				"Separator": true
 			},
-			{ "text": "." }
+			{ "text": "Vice-monger of the biochemical kind. You smoke, inject, ingest or imbibe it? They have it." }
 		]
 	},
 	{
@@ -276,7 +288,7 @@
 			{
 				"Separator": true
 			},
-			{ "text": "." }
+			{ "text": "Their exoskeletons make them able to do what no other soldiers are sane enough to do: bring a knife into a gunfight. But it's a pretty big knife, after all." }
 		]
 	},
 	{
@@ -309,7 +321,7 @@
 			{
 				"Separator": true
 			},
-			{ "text": "." }
+			{ "text": "Now with added zeal fueling their rampage." }
 		]
 	},
 	{
@@ -344,7 +356,7 @@
 			{
 				"Separator": true
 			},
-			{ "text": "." }
+			{ "text": "For these fellows, the age of piracy never ends." }
 		]
 	},
 	{
@@ -355,7 +367,7 @@
 		"movement": 2,
 		"strength": 10,
 		//"interceptRange": 1,
-		"cost": 40,
+		"cost": 35,
 		"requiredTech": "Frontier Armaments",
 		//"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Colony Rifleman",
@@ -376,7 +388,7 @@
 			{
 				"Separator": true
 			},
-			{ "text": "." }
+			{ "text": "A quickly-trained local militia unit that proves to be useful in the defense of their land." }
 		]
 	}
 ]
