@@ -265,7 +265,19 @@
 			"Never appears as a Barbarian unit"
 		],
 		"promotions": ["Legionnaire Training"],
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "." }
+		]
 	},
 	{
 		"name": "War Buggy",
@@ -286,7 +298,19 @@
 		],
 		"promotions": ["Raider","[War Buggy] Crew"],
 		"hurryCostModifier": 20,
-		"attackSound": "tankshot"
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "." }
+		]
 	},
 	{
 		"name": "Privateer",
@@ -309,7 +333,19 @@
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 20,
-		"attackSound": "shipguns"
+		"attackSound": "shipguns",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "." }
+		]
 	},
 	{
 		"name": "Panther",
@@ -329,6 +365,18 @@
 		],
 		"hurryCostModifier": 20,
 		"promotions": ["Raider"],
-		"attackSound": "machinegun"
-	},
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "." }
+		]
+	}
 ]
