@@ -58,7 +58,7 @@
 		"name": "[Colonial Ranger] ability",
 		"uniques": [
 			"[+20]% Strength <when fighting in [Friendly Land] tiles>",
-			"[+15%] Strength bonus for [Military] units within [2] tiles",
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"[50]% XP gained from combat",
 			"Can construct [Fort]",
 			"Uncapturable"
