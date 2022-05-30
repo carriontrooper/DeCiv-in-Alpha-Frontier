@@ -26,7 +26,7 @@
 		],
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "The average colony generates the usual amount of junk and scrap metal. This is a cheap way to recycle some of them into usability."
 			}
 		]
 	},
@@ -47,7 +47,7 @@
 		"requiredTech": "Pioneer Administration",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "Auditing not just the material, but also human resources."
 			}
 		]
 	},
@@ -65,7 +65,7 @@
 		"requiredTech": "Aerial Drones",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "Exploration, organized and standardized."
 			}
 		]
 	},
@@ -80,7 +80,7 @@
 		"requiredTech": "Pioneer Administration",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "A way to account for the various trade caravans that spring around a colony."
 			}
 		]
 	},
@@ -101,7 +101,7 @@
 		"requiredTech": "Frontier Armaments",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "Homegrown self-defense and offense training facilities."
 			}
 		]
 	},
@@ -119,7 +119,7 @@
 		"requiredTech": "Currency",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "Remember, the house always wins."
 			}
 		]
 	},
@@ -140,7 +140,7 @@
 		"requiredTech": "Engineering",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "Are you not entertained?"
 			}
 		]
 	},
@@ -158,7 +158,7 @@
 		],
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "There is a flame that is kept burning here, to symbolize the will of Ignis."
 			}
 		]
 	},
@@ -176,7 +176,7 @@
 		"requiredTech": "Hab-Domes",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "Habitats that exploit available coastal space - over and underwater."
 			}
 		]
 	},
@@ -190,7 +190,7 @@
 		"hurryCostModifier": 40,
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "In each and every one, an orrery to pinpoint the location of Earth - for worship and rememberance."
 			}
 		]
 	}
