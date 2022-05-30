@@ -156,7 +156,7 @@
 			"May upgrade to [Exoframe Sniper] through ruins-like effects",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Ignore terrain cost", "Amphibious", "Ambush", "Gas Filter"],
+		"promotions": ["Ignore terrain cost", "Amphibious", "Ambush I", "Gas Filter"],
 		"attackSound": "machinegun",
 		"civilopediaText": [
 			/*
@@ -242,7 +242,7 @@
 		"uniques": [
 			"Invisible to non-adjacent units",
 			"Can undertake a trade mission with City-State, giving a large sum of gold and [40] Influence",
-			"Can construct [Narcotics farm]",
+			"Can construct [Narcoponics]",
 			"Great Person - [Gold]",
 			"Unbuildable",
 			"Uncapturable"
@@ -262,10 +262,10 @@
 		]
 	},
 	{
-		"name": " Exoframe Legionnaire",
+		"name": "Exoframe Legionnaire",
 		"unitType": "Infantry",
 		"uniqueTo": "Crimson Legion",
-		"replaces": "Militia",
+		"replaces": "Exoframe Soldier",
 		"movement": 2,
 		"strength": 24,
 		"cost": 125,
