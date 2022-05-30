@@ -2,13 +2,13 @@
 	{
 		"name": "Hill Guerillas",
 		"uniques": [
-			"Double movement in [Hills]"
+			"Double movement in [Hill]"
 		],
 	},
 	{
 		"name": "Advanced Guerilla Tactics",
 		"uniques": [
-			"[+20]% Strength <when fighting in [Hills] tiles>"
+			"[+20]% Strength <when fighting in [Hill] tiles>"
 		],
 	},
 	{
