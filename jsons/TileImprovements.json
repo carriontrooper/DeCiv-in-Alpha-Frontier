@@ -18,6 +18,18 @@
 			"Flood plains",
 			"Mycelium"
 		],
-		"uniques": ["Great Improvement", "Provides [1] [Narcotics]"]
+		"uniques": ["Great Improvement", "Provides [2] [Narcotics]"],
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Narcoponics",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "These vast arrays of hydroponics are chiefly used to grow narcotics." }
+		]
 	}
 ]
