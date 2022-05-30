@@ -116,7 +116,7 @@
 			"[+1 Gold] [in this city] <with [Stimulants]>",
 			"[+1 Gold] [in this city] <with [Narcotics]>"
 		],
-		"requiredTech": "Currency",
+		"requiredTech": "Hab-Domes",
 		"civilopediaText": [
 			{
 				"text": "Remember, the house always wins."
