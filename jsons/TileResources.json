@@ -12,5 +12,19 @@
 				"text": "Hard drugs, the kind that causes long-lasting addictions and intense chemical imbalance in long-term users."
 			}
 		]
+	},
+	{
+		"name": "Hexlock Chemicals",
+		"production": 1,
+		"science": 1,
+		"resourceType": "Strategic",
+		//"uniques": [
+		//	"Can only be created by Mercantile City-States"
+		//]
+		"civilopediaText": [
+			{
+				"text": "Various chemical mixtures only the Hexlock is able to make. Combined with other strategic resources, they can make artificial Great Units."
+			}
+		]
 	}
 ]
