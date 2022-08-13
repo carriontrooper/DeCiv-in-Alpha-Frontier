@@ -31,5 +31,35 @@
 			},
 			{ "text": "These vast arrays of hydroponics are chiefly used to grow narcotics." }
 		]
+	},
+	{
+		"name": "Chemical Refinery Complex",
+		"science": 2,
+		"production": 1,
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Hill",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium"
+		],
+		"uniques": ["Provides [2] [Hexlock Chemicals]"],
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Narcoponics",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "A sprawling mess of chemical facilities that distill Hexlock's special secret mix of chemicals." }
+		]
 	}
 ]
