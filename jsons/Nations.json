@@ -1,5 +1,5 @@
 /* possible unique units/buildings/improvements for DeCiv nations in Alpha Frontier:
-# New Star: Armed Ambulance (UU), Training Range (UB)
+# New Star: Combat Ambulance (UU), Combat Medic (UU)
 # Hexlock: Great Mad Scientist (UU, Great General), Chemical Refinery Complex (UI)
 # Children of Rust: Salvage Yard (UB), Scavenger (UU, Frontier Militia)
 # Blackwarden: Contractor (UU, Colony Rifleman), Personnel Office (UB, Frontier Armory)
@@ -14,6 +14,120 @@
 # New Afrika: Mosque (UB, Memorial), Panther (UU, Colony Rifleman)
 */
 [
+	{
+		"name": "New Star",
+		"leaderName": "Willand Keiji",
+		"adjective": ["Star"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Humanism",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+		"declaringWar": "Let's go!",
+		"attacked": "Everyone! Defense Positions!",
+		"defeated": "This is... not the end.",
+		"introduction": "A dream. That's all it takes to keep going.",
+		"neutralHello": "Hello.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "We both stand to gain from this.",
+
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 165, 0],
+		//"style": "",
+		"uniqueName": "Determination",
+		"uniques": [
+			"[+50]% Great Person generation [in all cities]",
+			"[+15]% Strength <for [{Wounded} {Ranged}] units> <when attacking>",
+			"[+15]% Strength <for [{Wounded} {Melee}] units>  <when defending>",
+			"[+1] Sight <for [{Wounded} {Scout}] units> ",
+			//"Cannot build [Enslaved] units"
+		],
+		"cities": [
+			"Hope",
+			"Eastcity",
+			"Newbay",
+			"Ballenderg",
+			"San Lourn",
+			"Drimere",
+			"Highnimon",
+			"Inford",
+			"Melderk",
+			"Thallas",
+			"Nedaleck",
+			"Douridas Pier",
+			"Silverman Port",
+			"Dalbete",
+			"Light Otis",
+			"Meckenberg"
+		],
+		"civilopediaText": [
+			{
+				"text": "'When the Cataclysm happened, there were many that felt lost. Like the world was too far gone. I always had hope, but sometimes it's hard to keep it. Ever since we came out, the world has felt like a jungle. Ruled by wild beasts.'"
+			},
+			{ "text": "'But I got lucky. I found my platoon. My family. I think people seem to forget it, but fundamental rights? Democracy? Those were the result of natural progress. Of us seeing what worked, and what didn't. And as long as we keep marching backwards like this, we will never be better. The world had given me a second chance. And so I give you one as well. We go around the world gathering people like us. That see the world not for what it. But for what it can be. A New Star.'" }
+		]
+	},
+	{
+		"name": "Hexlock",
+		"leaderName": "Aura",
+		"adjective": ["Hexlock"],
+		"startBias": ["Mycelium"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Objectivism",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+		"declaringWar": "Congratulations. You will help me test my new advancements.",
+		"attacked": "Now isn't that interesting?",
+		"defeated": "Will this be the end? I wonder",
+		"introduction": "Hello-o. Anyone to spare for a science experiment?",
+		"neutralHello": "Yeah?",
+		"hateHello": "Quite an interesting person...",
+		"tradeRequest": "This Shipment was brought to you by Hexlock Technologies.",
+
+		"outerColor": [64, 8, 114],
+		"innerColor": [255, 40, 255],
+		"style": "Hexlock",
+		"uniqueName": "Adaptive Systems",
+		"uniques": [
+		    //"Can Mix Unique Strategic Resources to Generate a Great Person", //change this mechanic so it uses Hexlock Chemicals (resource) + another resource to build GU-making buildings (hide in civilopedia)
+			"[-99]% Great Person generation [in all cities]"
+		    /*
+			"[Purge Robot] units gain the [Promotion Nullifier] promotion",
+			"Starts with [Writing]",
+			"Starts with [Construction]",
+			"Starts with [Machinery]",
+			"Starts with [Engineering]",
+			"Starts with [Electronics]",
+			*/
+			"[-2 Happiness] [in all cities]"
+		],
+		"cities": [
+			"Halimax",
+			"Darkfield",
+			"Nightcity",
+			"Aella",
+			"Cybellia Complex",
+			"Vannell",
+			"L-T",
+			"Hemfield",
+			"Chaoslance",
+			"Nicord",
+			"Slyphis",
+			"Stradival",
+			"Eblaizal",
+			"Qrephel",
+			"Mabelcut",
+			"Prawrie"
+		],
+		"civilopediaText": [
+			{
+				"text": "'I will admit. There were times were even I felt stumped. Science is supposed to be free. To let you discover things to your heart's content without a single care. But for every step forward, there are some who wish to take two steps backwards. With their arbitrary regulations and limits. They had a system meant to hinder your progress. They... are gone now.'"
+			},
+			{ "text": "'For Hexlock, this new world is a paradise. Free to research whatever you want, however you want. No limits. Tell me. What will you bring this world next?'" }
+		]
+	},
 	{
 	"name": "Children of Rust",
 	"leaderName": "Scarlett",
