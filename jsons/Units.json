@@ -13,6 +13,67 @@
 */
 [
 	{
+		"name": "Combat Ambulance",
+		"unitType": "Siege",
+		"replaces": "Light Buggy",
+		"uniqueTo": "New Star",
+		"range": 1,
+		"movement": 5,
+		"strength": 15,
+		"rangedStrength": 16,
+		"cost": 75,
+		"requiredTech": "Portable Power Sources",
+		"upgradesTo": "Anti-Air Buggy",
+		//"obsoleteTech": "Lasers",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs [Armor] units>",
+			"[-50]% Strength <vs cities>",
+			"May withdraw before melee ([75]%)",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"promotions": ["Medic I","Medic II"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Combat Medic",
+		"unitType": "Infantry",
+		"uniqueTo": "New Star",
+		"replaces": "Frontier Militia",
+		"movement": 2,
+		"strength": 10,
+		"cost": 25,
+		"upgradesTo": "Colony Rifleman",
+		"hurryCostModifier": 20,
+		//"obsoleteTech": "Rifling",
+		"uniques": [
+			"May upgrade to [Colony Rifleman] through ruins-like effects",
+			"May capture killed [Enemy] units <with [10]% chance>",
+			"[-50]% Strength <vs cities>",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": [
+			"Scouting I",
+			"Medic I",
+			"Survivalism I"
+		],
+		"attackSound": "shot",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "Trained to be able to heal, rescue, and most importantly, bring back wounded allies." }
+		]
+	},
+	{
 		"name": "Scavenger",
 		"unitType": "Infantry",
 		"uniqueTo": "Children of Rust",
