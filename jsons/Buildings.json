@@ -193,5 +193,96 @@
 				"text": "In each and every one, an orrery to pinpoint the location of Earth - for worship and rememberance."
 			}
 		]
+	},
+	
+	{
+		"name": "Compound Mix GI",
+		"uniqueTo": "Hexlock",
+		"cost": 70,
+		"hurryCostModifier": 25,
+		"requiredResource": "Hexlock Chemicals",
+		"uniques": [
+			"Free [Great Influencer] appears",
+			"Consumes [1] [Hexlock Chemicals]",
+			"Consumes [1] [Vitamass]",
+			"Unsellable",
+			"Never destroyed when the city is captured",
+			"Limited to [3] per Civilization"
+		]
+	},
+	{
+		"name": "Compound Mix GS",
+		"uniqueTo": "Hexlock",
+		"cost": 70,
+		"hurryCostModifier": 25,
+		"requiredResource": "Hexlock Chemicals",
+		"uniques": [
+			"Free [Great Scientist] appears",
+			"Consumes [1] [Hexlock Chemicals]",
+			"Consumes [1] [Vitamass]",
+			"Unsellable",
+			"Never destroyed when the city is captured",
+			"Limited to [3] per Civilization"
+		]
+	},
+	{
+		"name": "Compound Mix GM",
+		"uniqueTo": "Hexlock",
+		"cost": 70,
+		"hurryCostModifier": 25,
+		"requiredResource": "Hexlock Chemicals",
+		"uniques": [
+			"Free [Great Merchant] appears",
+			"Consumes [1] [Hexlock Chemicals]",
+			"Consumes [1] [Vitamass]",
+			"Unsellable",
+			"Never destroyed when the city is captured",
+			"Limited to [3] per Civilization"
+		]
+	},
+	{
+		"name": "Compound Mix GE",
+		"uniqueTo": "Hexlock",
+		"cost": 70,
+		"hurryCostModifier": 25,
+		"requiredResource": "Hexlock Chemicals",
+		"uniques": [
+			"Free [Great Engineer] appears",
+			"Consumes [1] [Hexlock Chemicals]",
+			"Consumes [1] [Vitamass]",
+			"Unsellable",
+			"Never destroyed when the city is captured",
+			"Limited to [3] per Civilization"
+		]
+	},
+	{
+		"name": "Compound Mix GV",
+		"uniqueTo": "Hexlock",
+		"cost": 70,
+		"hurryCostModifier": 25,
+		"requiredResource": "Hexlock Chemicals",
+		"uniques": [
+			"Free [Great Visionary] appears",
+			"Consumes [1] [Hexlock Chemicals]",
+			"Consumes [1] [Vitamass]",
+			"Unsellable",
+			"Never destroyed when the city is captured",
+			"Limited to [3] per Civilization"
+		]
+	},
+	{
+		"name": "Compound Mix GT",
+		"uniqueTo": "Hexlock",
+		"cost": 70,
+		"hurryCostModifier": 25,
+		"requiredResource": "Hexlock Chemicals",
+		"uniques": [
+			"Free [Great General] appears",
+			"Consumes [1] [Hexlock Chemicals]",
+			"Consumes [1] [Vitamass]",
+			"Unsellable",
+			"Never destroyed when the city is captured",
+			"Limited to [3] per Civilization"
+		]
 	}
 ]
