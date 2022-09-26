@@ -451,5 +451,31 @@
 			},
 			{ "text": "A quickly-trained local militia unit that proves to be useful in the defense of their land." }
 		]
+	},
+	{
+		"name": "Great Mad Scientist",
+		"uniqueTo": "Hexlock",
+		"replaces": "Great Scientist",
+		"unitType": "Civilian",
+		"uniques": [
+			"Can hurry technology research",
+			"Can construct [Chemical Refinery Complex]",
+			"Great Person - [Science]",
+			"Unbuildable",
+			"Uncapturable"
+		],
+		"movement": 2,
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "They say the boundary between genius and insanity is but a hair's breadth away, and we are absolutely certain that this unit definitely belong to the latter." }
+		]
 	}
 ]
