@@ -14,7 +14,7 @@
 [
 	{
 		"name": "Combat Ambulance",
-		"unitType": "Siege",
+		"unitType": "Armored",
 		"replaces": "Light Buggy",
 		"uniqueTo": "New Star",
 		"range": 1,
