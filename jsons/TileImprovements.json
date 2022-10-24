@@ -20,12 +20,10 @@
 		],
 		"uniques": ["Great Improvement", "Provides [2] [Narcotics]"],
 		"civilopediaText": [
-			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Tiles/Narcoponics",
 				"imageSize": 64
 			},
-			*/
 			{
 				"Separator": true
 			},
@@ -50,12 +48,10 @@
 		],
 		"uniques": ["Provides [2] [Hexlock Chemicals]"],
 		"civilopediaText": [
-			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Tiles/Chemical Refinery Complex",
 				"imageSize": 64
 			},
-			*/
 			{
 				"Separator": true
 			},
