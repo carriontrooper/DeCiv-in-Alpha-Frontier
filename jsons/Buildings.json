@@ -208,6 +208,11 @@
 			"Unsellable",
 			"Never destroyed when the city is captured",
 			"Limited to [3] per Civilization"
+		],
+		"civilopediaText": [
+			{
+				"text": "Here, chemicals and mad science combine using classified Hexlock technologies to create something... useful."
+			}
 		]
 	},
 	{
@@ -223,6 +228,11 @@
 			"Unsellable",
 			"Never destroyed when the city is captured",
 			"Limited to [3] per Civilization"
+		],
+		"civilopediaText": [
+			{
+				"text": "Here, chemicals and mad science combine using classified Hexlock technologies to create something... useful."
+			}
 		]
 	},
 	{
@@ -253,6 +263,11 @@
 			"Unsellable",
 			"Never destroyed when the city is captured",
 			"Limited to [3] per Civilization"
+		],
+		"civilopediaText": [
+			{
+				"text": "Here, chemicals and mad science combine using classified Hexlock technologies to create something... useful."
+			}
 		]
 	},
 	{
@@ -268,6 +283,11 @@
 			"Unsellable",
 			"Never destroyed when the city is captured",
 			"Limited to [3] per Civilization"
+		],
+		"civilopediaText": [
+			{
+				"text": "Here, chemicals and mad science combine using classified Hexlock technologies to create something... useful."
+			}
 		]
 	},
 	{
@@ -283,6 +303,11 @@
 			"Unsellable",
 			"Never destroyed when the city is captured",
 			"Limited to [3] per Civilization"
+		],
+		"civilopediaText": [
+			{
+				"text": "Here, chemicals and mad science combine using classified Hexlock technologies to create something... useful."
+			}
 		]
 	}
 ]
