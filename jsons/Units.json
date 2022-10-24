@@ -185,7 +185,7 @@
 			"May upgrade to [Exoframe Soldier] through ruins-like effects",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Ignore terrain cost", "Gas Filter", "[Colonial Ranger] ability"],
+		"promotions": ["Ignore terrain cost", "Gas Filter", "Colonial Ranger Training"],
 		"attackSound": "shot",
 		"civilopediaText": [
 			{
@@ -359,7 +359,7 @@
 			"No defensive terrain bonus",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Raider","[War Buggy] Crew"],
+		"promotions": ["Raider","War Buggy Crew"],
 		"hurryCostModifier": 20,
 		"attackSound": "machinegun",
 		"civilopediaText": [
