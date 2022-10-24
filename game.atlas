@@ -1,278 +1,481 @@
 
 game.png
-size: 2048, 256
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Altar of Ignis
   rotate: false
-  xy: 4, 112
+  xy: 4, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Caravan Office
   rotate: false
-  xy: 220, 4
+  xy: 220, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Casino
   rotate: false
-  xy: 328, 112
+  xy: 4, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Compound Mix GE
+  rotate: false
+  xy: 112, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Compound Mix GI
+  rotate: false
+  xy: 112, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Compound Mix GM
+  rotate: false
+  xy: 112, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Compound Mix GS
+  rotate: false
+  xy: 112, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Compound Mix GT
+  rotate: false
+  xy: 112, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Compound Mix GV
+  rotate: false
+  xy: 112, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Guerilla Camp
   rotate: false
-  xy: 760, 4
+  xy: 328, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Personnel Office
   rotate: false
-  xy: 1300, 112
+  xy: 652, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salvage Yard
   rotate: false
-  xy: 1408, 4
+  xy: 976, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Seastead
   rotate: false
-  xy: 1516, 112
+  xy: 760, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Survey Center
   rotate: false
-  xy: 1516, 4
+  xy: 868, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Training Range
   rotate: false
-  xy: 1840, 112
+  xy: 868, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Atlas
+ImprovementIcons/Chemical Refinery Complex
   rotate: false
-  xy: 4, 4
+  xy: 112, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Barbarians
+ImprovementIcons/Narcoponics
   rotate: false
-  xy: 112, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Blackwarden
-  rotate: false
-  xy: 112, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Children of Rust
-  rotate: false
-  xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Commonwealth
-  rotate: false
-  xy: 436, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Crimson Legion
-  rotate: false
-  xy: 436, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Cult of Ignis
-  rotate: false
-  xy: 544, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Deadrock Clan
-  rotate: false
-  xy: 544, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Enclavers
-  rotate: false
-  xy: 652, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Hexlock
-  rotate: false
-  xy: 868, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/New Afrika
-  rotate: false
-  xy: 1084, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/New Star
-  rotate: false
-  xy: 1084, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/The Mariners
-  rotate: false
-  xy: 1624, 111
-  size: 100, 101
-  orig: 100, 101
-  offset: 0, 0
-  index: -1
-NationIcons/The Patriots
-  rotate: false
-  xy: 1732, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Capitalism
-  rotate: false
-  xy: 220, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Divine Engine
-  rotate: false
-  xy: 652, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Ghost Dance
-  rotate: false
-  xy: 760, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Humanism
-  rotate: false
-  xy: 868, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Liberty
-  rotate: false
-  xy: 976, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Objectivism
-  rotate: false
-  xy: 1192, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Paganism
-  rotate: false
-  xy: 1192, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Polytheism
-  rotate: false
-  xy: 1300, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Rastafari
-  rotate: false
-  xy: 1408, 112
+  xy: 652, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Narcotics
   rotate: false
-  xy: 976, 4
+  xy: 652, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Atlas
+  rotate: false
+  xy: 4, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Barbarians
+  rotate: false
+  xy: 112, 386
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Blackwarden
+  rotate: false
+  xy: 4, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Children of Rust
+  rotate: false
+  xy: 220, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Commonwealth
+  rotate: false
+  xy: 328, 386
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Crimson Legion
+  rotate: false
+  xy: 220, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Cult of Ignis
+  rotate: false
+  xy: 328, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Deadrock Clan
+  rotate: false
+  xy: 436, 386
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Enclavers
+  rotate: false
+  xy: 328, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Hexlock
+  rotate: false
+  xy: 436, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/New Afrika
+  rotate: false
+  xy: 544, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/New Star
+  rotate: false
+  xy: 652, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Mariners
+  rotate: false
+  xy: 976, 277
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+NationIcons/The Patriots
+  rotate: false
+  xy: 1084, 386
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Capitalism
+  rotate: false
+  xy: 112, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Divine Engine
+  rotate: false
+  xy: 220, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Ghost Dance
+  rotate: false
+  xy: 436, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Humanism
+  rotate: false
+  xy: 652, 386
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Idolatry
+  rotate: false
+  xy: 436, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Liberty
+  rotate: false
+  xy: 544, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Naturism
+  rotate: false
+  xy: 760, 386
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Objectivism
+  rotate: false
+  xy: 760, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Paganism
+  rotate: false
+  xy: 868, 386
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Polytheism
+  rotate: false
+  xy: 760, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Rastafari
+  rotate: false
+  xy: 868, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Hexlock Chemicals
+  rotate: false
+  xy: 544, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chemical Refinery Complex
+  rotate: false
+  xy: 1034, 229
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Narcoponics
+  rotate: false
+  xy: 976, 89
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Colonial Ranger
+  rotate: false
+  xy: 1084, 292
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Combat Ambulance
+  rotate: false
+  xy: 1142, 350
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Combat Medic
+  rotate: false
+  xy: 1192, 400
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Contractor
+  rotate: false
+  xy: 1250, 458
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Exoframe Legionnaire
+  rotate: false
+  xy: 120, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Mad Scientist
+  rotate: false
+  xy: 976, 125
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Guerilla
+  rotate: false
+  xy: 1034, 193
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Marine
+  rotate: false
+  xy: 1290, 458
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Narco Smuggler
+  rotate: false
+  xy: 160, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Panther
+  rotate: false
+  xy: 1330, 458
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Privateer
+  rotate: false
+  xy: 200, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rover Surveyor
+  rotate: false
+  xy: 1370, 458
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scavenger
+  rotate: false
+  xy: 240, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spec Ops
+  rotate: false
+  xy: 1410, 458
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/War Buggy
+  rotate: false
+  xy: 280, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Mad Scientist
+  rotate: false
+  xy: 544, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Clansman
   rotate: false
-  xy: 1624, 53
+  xy: 4, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Drone Recon
   rotate: false
-  xy: 1948, 162
+  xy: 976, 219
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Gas Filter
   rotate: false
-  xy: 1682, 53
+  xy: 1084, 328
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hazard Pay
   rotate: false
-  xy: 1740, 54
+  xy: 1192, 436
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hill Guerillas
   rotate: false
-  xy: 1798, 54
+  xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Raider
   rotate: false
-  xy: 1856, 54
+  xy: 976, 161
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
