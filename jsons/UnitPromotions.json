@@ -55,7 +55,7 @@
 		]
 	},
 	{
-		"name": "[Colonial Ranger] ability",
+		"name": "Colonial Ranger Training",
 		"uniques": [
 			"[+20]% Strength <when fighting in [Friendly Land] tiles>",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
@@ -81,7 +81,7 @@
 		]
 	},
 	{
-		"name": "[War Buggy] Crew",
+		"name": "War Buggy Crew",
 		"uniques": [
 			"[+20]% Strength <vs [Infantry] units>",
 			"[+20]% Strength <vs [Stealth Infantry] units>",
