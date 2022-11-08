@@ -18,6 +18,7 @@
 		"production": 1,
 		"science": 1,
 		"resourceType": "Strategic",
+		"revealedBy": "Xenochemistry",
 		//"uniques": [
 		//	"Can only be created by Mercantile City-States"
 		//]
