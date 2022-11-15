@@ -46,7 +46,7 @@
 			"Flood plains",
 			"Mycelium"
 		],
-		"uniques": ["Provides [2] [Hexlock Chemicals]"],
+		"uniques": ["Urban Improvement", "Provides [2] [Hexlock Chemicals]"],
 		"civilopediaText": [
 			{
 				"extraImage": "TileSets/FantasyHex/Tiles/Chemical Refinery Complex",
