@@ -415,7 +415,7 @@
 		"strength": 10,
 		//"interceptRange": 1,
 		"cost": 35,
-		"requiredTech": "Frontier Armaments",
+		//"requiredTech": "Frontier Armaments",
 		//"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Colony Rifleman",
 		"uniques": [
