@@ -799,5 +799,182 @@
 			"Giza",
 			"Byblos"
 		]
+	},
+	
+	// Outposts
+	// Cultural
+	{
+		"name": "Arden Club",
+		"adjective": ["Arden"],
+		"cityStateType": "Cultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Ardentown"]
+	},
+	{
+		"name": "Tellus",
+		"adjective": ["Tellus"],
+		"cityStateType": "Cultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Tellus"]
+	},
+	// Agricultural
+	{
+		"name": "Arroyo",
+		"adjective": ["Arroyoan"],
+		"cityStateType": "Agricultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Arroyo"]
+	},
+	{
+		"name": "Ghost Mountain",
+		"adjective": ["Ghost Mountain"],
+		"cityStateType": "Agricultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Ghost Mountain"]
+	},
+	{
+		"name": "Jericho",
+		"adjective": ["Jericho"],
+		"cityStateType": "Agricultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Jericho"]
+	},
+	// Economic
+	{
+		"name": "Bartertown",
+		"adjective": ["Bartertown"],
+		"cityStateType": "Economic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 200, 55],
+		"cities": ["Bartertown"]
+	},
+	{
+		"name": "The Hub",
+		"adjective": ["Hub"],
+		"cityStateType": "Economic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 200, 55],
+		"cities": ["The Hub"]
+	},
+	// Militaristic
+	{
+		"name": "Alma Base",
+		"adjective": ["Alma Base"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [200, 55, 25],
+		"cities": ["Alma Base"]
+	},
+	{
+		"name": "Church of the Iron Rod",
+		"adjective": ["Iron Rod"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [200, 55, 25],
+		"cities": ["Iron Rod Sanctuary"]
+	},
+	// Religious
+	{
+		"name": "Order of Jerome",
+		"adjective": ["Jeromian"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [55, 200, 222],
+		"cities": ["Jerome Abbey"]
+	},
+	{
+		"name": "Deseret Nation",
+		"adjective": ["Deseret"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [55, 200, 222],
+		"cities": ["Deseret City"]
+	},
+	{
+		"name": "Fo Guang",
+		"adjective": ["Fo Guang"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [55, 200, 222],
+		"cities": ["Fo Guang Shan"]
+	},
+	// Scientific
+	{
+		"name": "The Archive",
+		"adjective": ["Archive"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [20, 100, 200],
+		"cities": ["The Archive"]
+	},
+	// Industrial
+	{
+		"name": "Devil's Canyon",
+		"adjective": ["Devil's Canyon"],
+		"cityStateType": "Industrial",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 116, 55],
+		"cities": ["Devil's Canyon Power Plant"]
 	}
 ]
