@@ -22,8 +22,8 @@
 		"preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Humanism",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ".",
+		"startIntroPart1": "Greetings upon you, Willand Keiji of New Star. Ever since the Cataclysm happened, you managed to hold on to a spark of hope, and stoked that spark in others' hearts. Despite the harshness of post-collapse old Earth, you and your people held on to your hopes and dreams tightly. When you recovered an intact colony ship, you decided that mankind's hopes and dreams should live on in the stars - and thus a New Star joins the others in space.",
+		"startIntroPart2": "Keiji, your people look to you to keep that spark of hope aflame. Will you spread that hope in this new world? Can you build a colony that stands the test of time?",
 		"declaringWar": "Let's go!",
 		"attacked": "Everyone! Defense Positions!",
 		"defeated": "This is... not the end.",
@@ -76,8 +76,8 @@
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Objectivism",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ".",
+		"startIntroPart1": "Greetings, Aura of Hexlock Corporation. Before the Cataclysm of Old Earth, your company was among the forefront in science - but your progress was hindered by the ethics comittee. Freed from that shackle post-Cataclysm, you kept experimenting and iterating through the problems of the post-Cataclysm world, which culminated in the development of your own colony ship. A new experiment await in the depths of space.",
+		"startIntroPart2": "Aura, your mind craves intellect. Will you successfully conduct a new social experiment in this brand new planet? Can you build a colony that stands the test of time?",
 		"declaringWar": "Congratulations. You will help me test my new advancements.",
 		"attacked": "Now isn't that interesting?",
 		"defeated": "Will this be the end? I wonder",
