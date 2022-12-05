@@ -27,84 +27,84 @@ BuildingIcons/Casino
   index: -1
 BuildingIcons/Compound Mix GE
   rotate: false
-  xy: 328, 386
+  xy: 112, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mix GI
   rotate: false
-  xy: 328, 386
+  xy: 112, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mix GM
   rotate: false
-  xy: 328, 386
+  xy: 112, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mix GS
   rotate: false
-  xy: 328, 386
+  xy: 112, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mix GT
   rotate: false
-  xy: 328, 386
+  xy: 112, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mix GV
   rotate: false
-  xy: 328, 386
+  xy: 112, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Guerilla Camp
   rotate: false
-  xy: 544, 386
+  xy: 544, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Personnel Office
   rotate: false
-  xy: 868, 386
+  xy: 976, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salvage Yard
   rotate: false
-  xy: 868, 278
+  xy: 1084, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Seastead
   rotate: false
-  xy: 976, 386
+  xy: 976, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Survey Center
   rotate: false
-  xy: 760, 62
+  xy: 1084, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Training Range
   rotate: false
-  xy: 1084, 386
+  xy: 1084, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -118,14 +118,14 @@ ImprovementIcons/Chemical Refinery Complex
   index: -1
 ImprovementIcons/Narcoponics
   rotate: false
-  xy: 544, 170
+  xy: 652, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Narcotics
   rotate: false
-  xy: 544, 170
+  xy: 652, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -153,70 +153,70 @@ NationIcons/Children of Rust
   index: -1
 NationIcons/Commonwealth
   rotate: false
-  xy: 220, 278
+  xy: 328, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Crimson Legion
   rotate: false
-  xy: 112, 62
+  xy: 328, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Cult of Ignis
   rotate: false
-  xy: 220, 170
+  xy: 436, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Deadrock Clan
   rotate: false
-  xy: 328, 278
+  xy: 220, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Enclavers
   rotate: false
-  xy: 220, 62
+  xy: 436, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Hexlock
   rotate: false
-  xy: 328, 62
+  xy: 652, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/New Afrika
   rotate: false
-  xy: 760, 386
+  xy: 868, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/New Star
   rotate: false
-  xy: 544, 62
+  xy: 652, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Mariners
   rotate: false
-  xy: 868, 169
+  xy: 1192, 385
   size: 100, 101
   orig: 100, 101
   offset: 0, 0
   index: -1
 NationIcons/The Patriots
   rotate: false
-  xy: 976, 278
+  xy: 976, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -230,203 +230,252 @@ ReligionIcons/Capitalism
   index: -1
 ReligionIcons/Divine Engine
   rotate: false
-  xy: 436, 386
+  xy: 328, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Ghost Dance
   rotate: false
-  xy: 328, 170
+  xy: 328, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Humanism
   rotate: false
-  xy: 544, 278
+  xy: 544, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Idolatry
   rotate: false
-  xy: 652, 386
+  xy: 652, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Liberty
   rotate: false
-  xy: 436, 62
+  xy: 760, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Naturism
   rotate: false
-  xy: 652, 278
+  xy: 760, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Objectivism
   rotate: false
-  xy: 652, 170
+  xy: 760, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Paganism
   rotate: false
-  xy: 760, 278
+  xy: 868, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Polytheism
   rotate: false
-  xy: 652, 62
+  xy: 760, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Rastafari
   rotate: false
-  xy: 760, 170
+  xy: 868, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Hexlock Chemicals
   rotate: false
-  xy: 436, 170
+  xy: 436, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Chemical Refinery Complex
   rotate: false
-  xy: 868, 63
+  xy: 1358, 446
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Narcoponics
   rotate: false
-  xy: 160, 26
+  xy: 1300, 306
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Colonial Ranger
   rotate: false
-  xy: 926, 133
+  xy: 1084, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Combat Ambulance
   rotate: false
-  xy: 976, 184
+  xy: 1142, 134
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Combat Medic
   rotate: false
-  xy: 1034, 242
+  xy: 1192, 183
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Contractor
   rotate: false
-  xy: 1084, 292
+  xy: 1250, 241
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Exoframe Legionnaire
   rotate: false
-  xy: 1142, 350
+  xy: 120, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Mad Scientist
   rotate: false
-  xy: 1192, 400
+  xy: 1300, 342
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Guerilla
   rotate: false
-  xy: 1250, 458
+  xy: 1358, 410
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine
   rotate: false
-  xy: 120, 26
+  xy: 1398, 458
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Narco Smuggler
   rotate: false
-  xy: 1290, 458
+  xy: 160, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Panther
   rotate: false
-  xy: 1330, 458
+  xy: 1398, 422
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer
   rotate: false
-  xy: 200, 26
+  xy: 1438, 458
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rover Surveyor
   rotate: false
-  xy: 1370, 458
+  xy: 200, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scavenger
   rotate: false
-  xy: 240, 26
+  xy: 1438, 422
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spec Ops
   rotate: false
-  xy: 1410, 458
+  xy: 1478, 458
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/War Buggy
   rotate: false
-  xy: 280, 26
+  xy: 240, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+UnitIcons/Colonial Ranger
+  rotate: false
+  xy: 220, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Contractor
+  rotate: false
+  xy: 220, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Exoframe Legionnaire
+  rotate: false
+  xy: 544, 386
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Great Mad Scientist
   rotate: false
-  xy: 436, 278
+  xy: 436, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Narco Smuggler
+  rotate: false
+  xy: 544, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rover Surveyor
+  rotate: false
+  xy: 976, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Scavenger
+  rotate: false
+  xy: 868, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/War Buggy
+  rotate: false
+  xy: 1192, 277
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -440,35 +489,35 @@ UnitPromotionIcons/Clansman
   index: -1
 UnitPromotionIcons/Drone Recon
   rotate: false
-  xy: 868, 111
+  xy: 1300, 436
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Gas Filter
   rotate: false
-  xy: 976, 220
+  xy: 1084, 112
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hazard Pay
   rotate: false
-  xy: 1084, 328
+  xy: 1192, 219
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hill Guerillas
   rotate: false
-  xy: 1192, 436
+  xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Raider
   rotate: false
-  xy: 62, 4
+  xy: 1300, 378
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
