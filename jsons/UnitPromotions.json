@@ -103,7 +103,8 @@
 		"uniques": [
 			"[+20]% Strength <vs [Infantry] units>",
 			"[+20]% Strength <vs [Stealth Infantry] units>",
-			"[+20]% Strength <vs [Sniper] units>"
+			"[+20]% Strength <vs [Sniper] units>",
+			"Damage is ignored when determining unit Strength <when below [25] HP>"
 		],
 		"row": 117,
         "column": 0
