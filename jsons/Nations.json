@@ -809,8 +809,8 @@
 		"cityStateType": "Cultural",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"attacked": "Why can't we find a mutually beneficial relationship?",
+		"defeated": "So this is how it ends for us.",
 		"outerColor": [50, 50, 50],
 		"innerColor": [197, 55, 222],
 		"cities": ["Ardentown"]
@@ -820,9 +820,9 @@
 		"adjective": ["Tellus"],
 		"cityStateType": "Cultural",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"declaringWar": "The plant has spoken, you must be defeated!",
+		"attacked": "We will not let you destroy our sacred trees!",
+		"defeated": "The plants must survive... no matter what.",
 		"outerColor": [50, 50, 50],
 		"innerColor": [197, 55, 222],
 		"cities": ["Tellus"]
@@ -835,7 +835,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"defeated": "The spirits were willing, but the flesh was weak...",
 		"outerColor": [50, 50, 50],
 		"innerColor": [114, 222, 55],
 		"cities": ["Arroyo"]
@@ -846,8 +846,8 @@
 		"cityStateType": "Agricultural",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"attacked": "The spirits will fight at our side.",
+		"defeated": "We go to join the ancestors.",
 		"outerColor": [50, 50, 50],
 		"innerColor": [114, 222, 55],
 		"cities": ["Ghost Mountain"]
@@ -871,8 +871,8 @@
 		"cityStateType": "Economic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"attacked": "Two men enter, one man leaves!",
+		"defeated": "You run Bartertown.",
 		"outerColor": [50, 50, 50],
 		"innerColor": [222, 200, 55],
 		"cities": ["Bartertown"]
@@ -883,7 +883,7 @@
 		"cityStateType": "Economic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"attacked": "Have you ever danced with the devil in the pale moonlight?",
 		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [50, 50, 50],
 		"innerColor": [222, 200, 55],
@@ -897,7 +897,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"defeated": "How could we fall to the likes of you?",
 		"outerColor": [50, 50, 50],
 		"innerColor": [200, 55, 25],
 		"cities": ["Alma Base"]
@@ -908,8 +908,8 @@
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"attacked": "The rod of iron shall strike you down!",
+		"defeated": "How is it that we have failed?",
 		"outerColor": [50, 50, 50],
 		"innerColor": [200, 55, 25],
 		"cities": ["Iron Rod Sanctuary"]
@@ -921,8 +921,8 @@
 		"cityStateType": "Religious",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"attacked": "May you be forgiven.",
+		"defeated": "There is still time... Brother",
 		"outerColor": [50, 50, 50],
 		"innerColor": [55, 200, 222],
 		"cities": ["Jerome Abbey"]
@@ -933,8 +933,8 @@
 		"cityStateType": "Religious",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"attacked": "Do you think that your unhallowed hands can stop us?",
+		"defeated": "Our blood will cry out for vengeance against you.",
 		"outerColor": [50, 50, 50],
 		"innerColor": [55, 200, 222],
 		"cities": ["Deseret City"]
@@ -945,8 +945,8 @@
 		"cityStateType": "Religious",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"attacked": "Your desire for power will only bring you suffering."",
+		"defeated": "Weep not for us, for we shall be reborn.",
 		"outerColor": [50, 50, 50],
 		"innerColor": [55, 200, 222],
 		"cities": ["Fo Guang Shan"]
@@ -958,23 +958,35 @@
 		"cityStateType": "Scientific",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"attacked": "We shall not go gentle into that good night!",
+		"defeated": "After us, the deluge...",
 		"outerColor": [50, 50, 50],
 		"innerColor": [20, 100, 200],
 		"cities": ["The Archive"]
 	},
-	// Industrial
 	{
 		"name": "Devil's Canyon",
 		"adjective": ["Devil's Canyon"],
-		"cityStateType": "Industrial",
+		"cityStateType": "Scientific",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [50, 50, 50],
-		"innerColor": [222, 116, 55],
+		"innerColor": [20, 100, 200],
 		"cities": ["Devil's Canyon Power Plant"]
+	},
+	// Industrial
+	{
+		"name": "Dahomey",
+		"adjective": ["Dahomey"],
+		"cityStateType": "Industrial",
+
+		"declaringWar": "It's about time you came to work for us.",
+		"attacked": "Hands off the merchandise!",
+		"defeated": "I suppose we work for you now.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 116, 55],
+		"cities": ["Dahomeyville"]
 	}
 ]
