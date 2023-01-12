@@ -60,7 +60,7 @@
 		//"obsoleteTech": "Rifling",
 		"uniques": [
 			"May upgrade to [Colony Rifleman] through ruins-like effects",
-			"May capture killed [Enemy] units <with [10]% chance>",
+			"May capture killed [Land] units <with [10]% chance>",
 			"[-50]% Strength <vs cities>",
 			"Never appears as a Barbarian unit"
 		],
