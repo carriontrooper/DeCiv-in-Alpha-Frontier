@@ -482,12 +482,12 @@
 		"promotions": ["Gas Filter"],
 		"attackSound": "shot",
 		"civilopediaText": [
-			/*
+			
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Desolator",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
