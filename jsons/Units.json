@@ -460,5 +460,38 @@
 			},
 			{ "text": "They say the boundary between genius and insanity is but a hair's breadth away, and we are absolutely certain that this unit definitely belong to the latter." }
 		]
-	}
+	},
+	{
+		"name": "Desolator",
+		"uniqueTo": "Proklyatyye",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 40,
+		"rangedStrength": 35,
+		"range": 1,
+		"cost": 125,
+		"hurryCostModifier": 20,
+		"requiredTech": "Exoskeletons",
+		//"obsoleteTech": "Nuclear Fission",
+		//"upgradesTo": "Contaminator",
+		"uniques": [
+			"Personnel",
+			"Consumes [1] [Ulframite]",
+			"Destroys tile improvements when attacking"
+		],
+		"promotions": ["Gas Mask"],
+		"attackSound": "shot",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Desolator",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "These soldiers don heavy radiation-resistant exoskeletons and wield a weaponized Ulframite-powered radiation emitter. They've volunteered at the cost of an amount of their lifespans." }
+		]
+	},
 ]

@@ -118,4 +118,14 @@
 		"row": 118,
         "column": 0
 	},
+	{
+		"name": "Radioactive",
+		"uniques": [
+			"[-10]% Strength for enemy [All] units in adjacent [All] tiles",
+			"Double movement in [Fallout]",
+			"Double movement in [Toxic Waste]"
+		],
+		"row": 123,
+		"column": 0
+	}
 ]

@@ -309,5 +309,26 @@
 				"text": "Here, chemicals and mad science combine using classified Hexlock technologies to create something... useful."
 			}
 		]
-	}
+	},
+	{
+		"name": "Decontamination Center",
+		"replaces": "Frontier Hospital",
+		"uniqueTo": "Proklyatyye",
+		"science": -1,
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Xeno-Medicine",
+		"uniques": [
+			"[10]% Food is carried over after population increases [in this city]",
+			"Population loss from nuclear attacks [-25]% [in this city]",
+			"All newly-trained [Infantry] units [in this city] receive the [Gas Mask] promotion",
+			"All newly-trained [Stealth Infantry] units [in this city] receive the [Gas Mask] promotion",
+			"[+1 Food] [in this city] <with [Vitamass]>"
+		],
+		"civilopediaText": [
+			{
+				"text": "The Proklyatyye are very conscious of their radiation-polluted past, and takes extra care in the art of decontamination. Of course, this not only works on radiation."
+			}
+		]
+	},
 ]
