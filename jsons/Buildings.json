@@ -321,8 +321,8 @@
 		"uniques": [
 			"[10]% Food is carried over after population increases [in this city]",
 			"Population loss from nuclear attacks [-25]% [in this city]",
-			"All newly-trained [Infantry] units [in this city] receive the [Gas Mask] promotion",
-			"All newly-trained [Stealth Infantry] units [in this city] receive the [Gas Mask] promotion",
+			"All newly-trained [Infantry] units [in this city] receive the [Gas Filter] promotion",
+			"All newly-trained [Stealth Infantry] units [in this city] receive the [Gas Filter] promotion",
 			"[+1 Food] [in this city] <with [Vitamass]>"
 		],
 		"civilopediaText": [

@@ -479,7 +479,7 @@
 			"Consumes [1] [Ulframite]",
 			"Destroys tile improvements when attacking"
 		],
-		"promotions": ["Gas Mask"],
+		"promotions": ["Gas Filter"],
 		"attackSound": "shot",
 		"civilopediaText": [
 			/*
