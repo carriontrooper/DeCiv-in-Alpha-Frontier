@@ -475,7 +475,7 @@
 		//"obsoleteTech": "Nuclear Fission",
 		//"upgradesTo": "Contaminator",
 		"uniques": [
-			"Personnel",
+			//"Personnel",
 			"Consumes [1] [Ulframite]",
 			"Destroys tile improvements when attacking"
 		],
