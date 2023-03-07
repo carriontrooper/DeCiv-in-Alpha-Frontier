@@ -72,7 +72,7 @@
 			"[+20]% Strength <when fighting in [Friendly Land] tiles>",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"[50]% XP gained from combat",
-			"Can construct [Fort]",
+			"Can instantly construct a [Fort] improvement <by consuming this unit>",
 			"Uncapturable"
 		],
 		"row": 114,
