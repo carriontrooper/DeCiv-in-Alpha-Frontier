@@ -298,7 +298,7 @@
 		"uniques": [
 			"Invisible to non-adjacent units",
 			"Can undertake a trade mission with City-State, giving a large sum of gold and [40] Influence",
-			"Can construct [Narcoponics]",
+			"Can instantly construct a [Narcoponics] improvement <by consuming this unit>",
 			"Great Person - [Gold]",
 			"Unbuildable",
 			"Uncapturable"
@@ -444,7 +444,7 @@
 		"unitType": "Civilian",
 		"uniques": [
 			"Can hurry technology research",
-			"Can construct [Chemical Refinery Complex]",
+			"Can instantly construct a [Chemical Refinery Complex] improvement <by consuming this unit>",
 			"Great Person - [Science]",
 			"Unbuildable",
 			"Uncapturable"
