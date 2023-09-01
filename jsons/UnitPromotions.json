@@ -30,7 +30,7 @@
 		"name": "Drone Recon",
 		"uniques": [
 			"Can see over obstacles",
-			"Normal vision when embarked",
+			"[+1] vision when embarked",
 			"[25]% XP gained from combat",
 			"Only available <if [Survey Center] is constructed>"
 		],
