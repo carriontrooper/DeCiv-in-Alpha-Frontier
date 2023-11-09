@@ -383,12 +383,13 @@
 		"strength": 35,
 		"cost": 250,
 		"requiredTech": "Alloy Microstructures",
-		"requiredResource": "Promethine",
+		//"requiredResource": "Promethine",
 		//"obsoleteTech": "Steam Power",
 		"uniques": [
 			"Double movement in [Coast]",
 			"May withdraw before melee ([66]%)",
 			"Consumes [1] [Promethine]",
+			"Only available <with [Promethine]>",
 			"May capture killed [Water] units",
 			"Earn [33]% of the damage done to [City] units as [Gold]",
 			"Only available <in cities with a [Floating Harbor]>",
@@ -477,6 +478,7 @@
 		"uniques": [
 			//"Personnel",
 			"Consumes [1] [Ulframite]",
+			"Only available <with [Ulframite]>",
 			"Destroys tile improvements when attacking"
 		],
 		"promotions": ["Gas Filter"],
