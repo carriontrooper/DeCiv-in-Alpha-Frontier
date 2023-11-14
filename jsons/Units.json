@@ -37,10 +37,12 @@
 		"promotions": ["Medic I","Medic II"],
 		"attackSound": "tankshot",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Combat Ambulance",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -72,10 +74,12 @@
 		],
 		"attackSound": "shot",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Combat Medic",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -99,10 +103,12 @@
 		"promotions": ["Scav Training"],
 		"attackSound": "nonmetalhit",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Scavenger",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -128,10 +134,12 @@
 		"hurryCostModifier": -25,
 		"attackSound": "machinegun",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Contractor",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -160,10 +168,12 @@
 		"promotions": ["Medic I"],
 		"attackSound": "nonmetalhit",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Rover Surveyor",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -189,10 +199,12 @@
 		"promotions": ["Ignore terrain cost", "Gas Filter", "Colonial Ranger Training"],
 		"attackSound": "shot",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Colonial Ranger",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -221,10 +233,12 @@
 		"promotions": ["Ignore terrain cost", "Amphibious", "Ambush I", "Gas Filter"],
 		"attackSound": "machinegun",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Spec Ops",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -251,10 +265,12 @@
 		"promotions": ["Amphibious", "Gas Filter"],
 		"attackSound": "machinegun",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Marine",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -280,10 +296,12 @@
 		//"promotions": ["Forage"],
 		"attackSound": "shot",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Guerilla",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -305,10 +323,12 @@
 		],
 		"movement": 2,
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Narco Smuggler",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -333,10 +353,12 @@
 		"promotions": ["Legionnaire Training"],
 		"attackSound": "metalhit",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Exoframe Legionnaire",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -364,10 +386,12 @@
 		"hurryCostModifier": 20,
 		"attackSound": "machinegun",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/War Buggy",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -398,10 +422,12 @@
 		"hurryCostModifier": 20,
 		"attackSound": "shipguns",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Privateer",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -428,10 +454,12 @@
 		"promotions": ["Raider"],
 		"attackSound": "machinegun",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Panther",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -452,10 +480,12 @@
 		],
 		"movement": 2,
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Great Mad Scientist",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
@@ -484,12 +514,12 @@
 		"promotions": ["Gas Filter"],
 		"attackSound": "shot",
 		"civilopediaText": [
-			
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Desolator",
 				"imageSize": 64
 			},
-			
+			*/
 			{
 				"Separator": true
 			},
