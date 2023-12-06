@@ -40,7 +40,7 @@
 		"percentStatBonus": { "gold": 5 },
 		"uniques": [
 			"Prefab"
-			"[+33]% Production when constructing [Worker] units [in this city]",
+			"[+33]% Production when constructing [Constructor] units [in this city]",
 			"[+1 Happiness, +1 Culture] [in this city] <after discovering [Stable Fission Power]>",
 			"[+1 Food, +3 Production] [in this city] <after discovering [Offworld Industries]>"
 		],
