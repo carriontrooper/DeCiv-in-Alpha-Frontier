@@ -269,7 +269,7 @@
 		//"style": "Corporate",
 		"uniqueName": "Creative Leadership",
 		"uniques": [
-			"Receive free [Great Scientist] when you discover [Computing]",
+			"Free [Great Scientist] <upon discovering [Computing]>",
 			"[+33]% Great Person generation [in all cities]",
 			//"Starts with [Writing]",
 			//"Starts with [Construction]",
