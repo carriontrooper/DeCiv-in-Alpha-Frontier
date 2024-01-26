@@ -19,7 +19,7 @@
 		"name": "Clansman",
 		"uniques": [
 			"Clansman",
-			"Earn [10]% of killed [Military] opponent's [Cost] as [Gold]",
+			"Earn [10]% of killed [Military] unit's [Cost] as [Gold]",
 			"[-50]% XP gained from combat",
 			"[Great General] is earned [250]% faster"
 		],
@@ -60,7 +60,7 @@
 	{
 		"name": "Hazard Pay",
 		"uniques": [
-			"Earn [-10]% of killed [Military] opponent's [Strength] as [Gold]",
+			"Earn [-10]% of killed [Military] unit's [Strength] as [Gold]",
 			"Can move immediately once bought"
 		],
 		"row": 113,
