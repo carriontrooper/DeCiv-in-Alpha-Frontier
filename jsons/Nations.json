@@ -20,6 +20,7 @@
 		"leaderName": "Willand Keiji",
 		"adjective": ["Star"],
 		"startBias": ["Plains"],
+		"personality": "Nomadic Survivors",
 		"preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Humanism",
 
@@ -74,6 +75,7 @@
 		"leaderName": "Aura",
 		"adjective": ["Hexlock"],
 		"startBias": ["Mycelium"],
+		"personality": "Unethical Researcher",
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Objectivism",
 
@@ -134,6 +136,7 @@
 	"leaderName": "Scarlett",
 	"adjective": ["Scavenger"],
 	"startBias": ["Forest"],
+	"personality": "Tribal Commune",
 	"preferredVictoryType": "Cultural",
 	"favoredReligion": "Ghost Dance",
 
@@ -192,6 +195,7 @@
 		"name": "Blackwarden",
 		"leaderName": "Eric Price",
 		"adjective": ["Blackwarden"],
+		"personality": "Mercenary Megacorp",
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Capitalism",
 
@@ -251,6 +255,7 @@
 		"leaderName": "John Kruger",
 		"adjective": ["Corporate"],
 		// "startBias": ["Avoid [Desert]"],
+		"personality": "Scientific Megacorp",
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Objectivism",
 
@@ -311,6 +316,7 @@
 		"leaderName": "President Hawkins",
 		"adjective": ["Commonwealth"],
 		"startBias": ["Avoid [Desert]"],
+		"personality": "Diplomatic Union",
 		"preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Humanism",
 
@@ -374,6 +380,7 @@
 		"leaderName": "General Cameron",
 		"adjective": ["Patriot"],
 		"startBias": ["Avoid [Desert]"],
+		"personality": "Resurgent Military",
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Liberty",
 
@@ -434,6 +441,7 @@
 		"leaderName": "Timothy D. West",
 		"adjective": ["Survivalist"],
 		"startBias": ["Hill"],
+		"personality": "Isolationist Survivors",
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Liberty",
 
@@ -506,6 +514,7 @@
 		"leaderName": "Boss Karl",
 		"adjective": ["Regulator"],
 		"startBias": ["Jungle"],
+		"personality": "Criminal Empire",
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Capitalism",
 
@@ -560,6 +569,7 @@
 		"name": "Crimson Legion",
 		"leaderName": "Caesar",
 		"adjective": ["Legion"],
+		"personality": "Imperial Raiders",
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Polytheism",
 
@@ -626,6 +636,7 @@
 		"leaderName": "Ignitor Martina",
 		"adjective": ["Ignis"],
 		"startBias": ["Desert"],
+		"personality": "Zealous Cultists",
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Divine Engine",
 
@@ -690,6 +701,7 @@
 		"leaderName": "Deacon Hopper",
 		"adjective": ["Mariner"],
 		"startBias": ["Coast"],
+		"personality": "Nomadic Raiders",
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Humanism",
 
@@ -740,6 +752,7 @@
 		"leaderName": "Mutulu Makonnen",
 		"adjective": ["Afrikan"],
 		"startBias": ["Avoid [Tundra]"],
+		"personality": "Rising Power",
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Rastafari",
 
@@ -806,6 +819,7 @@
 		"leaderName": "Trofim Bugorski",
 		"adjective": ["Proklyatyy"],
 		"startBias": ["Tundra"],
+		"personality": "Radioactive Survivors",
 		"preferredVictoryType": "Scientific",
 	
 		"startIntroPart1": "Privyet, Trofim Bugorski of the Proklyatyye. You have led your people from the radioactive aftermath of Old Earth's conflicts, and survived through the mutations with an eye to the stars. When an opportunity in the form of a dilapidated colony ship was found, the Proklyatyye seized it with open arms, determined to find a fresh new planet to call home.",
