@@ -255,7 +255,7 @@
 		"leaderName": "John Kruger",
 		"adjective": ["Corporate"],
 		// "startBias": ["Avoid [Desert]"],
-		"personality": "Scientific Megacorp",
+		"personality": "Objectivist Megacorp",
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Objectivism",
 
