@@ -104,7 +104,7 @@
 			"[+20]% Strength <vs [Infantry] units>",
 			"[+20]% Strength <vs [Stealth Infantry] units>",
 			"[+20]% Strength <vs [Sniper] units>",
-			"No damage penalty forwounded units <when below [25] HP>"
+			"No damage penalty for wounded units <when below [25] HP>"
 		],
 		"row": 117,
         "column": 0
