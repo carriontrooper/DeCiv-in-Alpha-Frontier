@@ -30,7 +30,7 @@
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs [Armor] units>",
 			"[-50]% Strength <vs cities>",
-			"May withdraw before melee ([75]%)",
+			"Withdraws before melee combat <with [75]% chance>",
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 20,
@@ -411,7 +411,7 @@
 		//"obsoleteTech": "Steam Power",
 		"uniques": [
 			"Double movement in [Coast]",
-			"May withdraw before melee ([66]%)",
+			"Withdraws before melee combat <with [66]% chance>",
 			"Consumes [1] [Promethine]",
 			//"Can only be built <with [Promethine]>",
 			"May capture killed [Water] units",
