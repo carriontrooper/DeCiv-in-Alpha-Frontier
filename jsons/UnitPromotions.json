@@ -127,5 +127,59 @@
 		],
 		"row": 119,
 		"column": 0
+	},
+	/*
+	{
+		"name": "Hang-Around",
+		"uniques": ["[This Unit] gains the [Prospect] promotion <upon defeating a [Military] unit>"],
+		"row": 131,
+		"column": 0
+	},
+	{
+		"name": "Prospect",
+		"prerequisites": ["Hang-Around"],
+		"uniques": [
+			"[This Unit] gains the [Full Patch] promotion <upon defeating a [Military] unit>",
+			"Earn [25]% of killed [Military] unit's [Strength] as [Culture]"
+		],
+		"row": 132,
+		"column": 0
+	},
+	{
+		"name": "Full Patch",
+		"prerequisites": ["Prospect"],
+		"uniques": [
+			"Uncapturable",
+			"Heals [15] damage if it kills a unit",
+			"Earn [10]% of killed [Military] unit's [Strength] as [Faith]",
+			"May capture killed [Military] units <with [25]% chance>",
+			"[This Unit] gains the [One Percent] promotion <upon conquering a city> <for units without [One Percent]>"
+		],
+		"row": 133,
+		"column": 0
+	},
+	{
+		"name": "One Percent",
+		"prerequisites": ["Full Patch"],
+		"uniques": [
+			"[This Unit] upgrades for free including special upgrades",
+			"Earn [33]% of the damage done to [All] units as [Gold]"
+		],
+		"row": 134,
+		"column": 0
+	},
+	{
+		"name": "[Khan] ability",
+		"uniques": [
+			"Great General",
+			"[+20]% Strength bonus for [Military] units within [1] tiles",
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
+			"[+10]% Strength bonus for [Military] units within [3] tiles",
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Uncapturable"
+		],
+		"row": 135,
+		"column": 0
 	}
+	*/
 ]
