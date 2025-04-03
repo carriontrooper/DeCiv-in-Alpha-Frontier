@@ -91,8 +91,8 @@
 		"cityStrength": 10,
 		"uniques": [
 			"Prefab",
-			"New [Infantry] units start with [15] Experience [in this city]",
-			"New [Stealth Infantry] units start with [15] Experience [in this city]",
+			"New [Infantry] units start with [15] XP [in this city]",
+			"New [Stealth Infantry] units start with [15] XP [in this city]",
 			"All newly-trained [Infantry] units [in this city] receive the [Advanced Guerilla Tactics] promotion",
 			"All newly-trained [Stealth Infantry] units [in this city] receive the [Advanced Guerilla Tactics] promotion",
 			"All newly-trained [Sniper] units [in this city] receive the [Advanced Guerilla Tactics] promotion",
@@ -131,7 +131,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"Remove extra unhappiness from annexed cities",
 			"[+1 Happiness, +1 Culture] [in this city] <with [Stimulants]>",
 			//"Only available <in cities without a [Prison Camp]>",
@@ -169,7 +169,7 @@
 		"culture": 1,
 		"uniques": [
 			"[+10]% Production when constructing [Water] units [in this city]",
-			"New [Water] units start with [15] Experience [in this city]",
+			"New [Water] units start with [15] XP [in this city]",
 			//"Connects trade routes over water",
 			"Must be next to [Coast]"
 		],
