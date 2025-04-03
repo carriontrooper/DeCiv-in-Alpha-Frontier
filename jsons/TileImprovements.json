@@ -5,6 +5,7 @@
 [
 	{
 		"name": "Narcoponics",
+		//"uniqueTo": "Deadrock Clan",
 		"culture": 2,
 		"terrainsCanBeBuiltOn": [
 			"Plains",
@@ -32,6 +33,7 @@
 	},
 	{
 		"name": "Chemical Refinery Complex",
+		//"uniqueTo": "Hexlock",
 		"science": 2,
 		"production": 1,
 		"terrainsCanBeBuiltOn": [
@@ -62,7 +64,7 @@
 	{
 		"name": "Yurt Dome",
 		"uniqueTo": "The Hunnu",
-		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert"],
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Mycelium"],
 		"food": 1,
 		"production": 1,
 		"turnsToBuild": 7,
