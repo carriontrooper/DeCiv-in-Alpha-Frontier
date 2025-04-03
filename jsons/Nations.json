@@ -1,5 +1,5 @@
 /* possible unique units/buildings/improvements for DeCiv nations in Alpha Frontier:
-# Prassidh Shahar: Avatar (UU), Food Lab (UB)
+# Prasiddh Shahar: Avatar (UU), Food Lab (UB)
 # Hunnu: Khan (UU, Great Tactician), Yurt Dome (UI)
 
 # Proklyatyye: Decontamination Center (UB), Desolator (UU)
@@ -884,7 +884,7 @@
 		]
 	},
 
-	/*
+	
 	{
 		"name": "The Hunnu",
 		"leaderName": "Modu Chanyu",
@@ -1005,7 +1005,7 @@
 		],
 		"spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
 	},
-	*/
+	
 	
 	// Outposts
 	// Cultural
