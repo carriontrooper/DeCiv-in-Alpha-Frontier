@@ -526,4 +526,72 @@
 			{ "text": "These soldiers don heavy radiation-resistant exoskeletons and wield a weaponized Ulframite-powered radiation emitter. They've volunteered at the cost of shortening their lifespans." }
 		]
 	},
+	/*
+	{
+		"name": "Khan",
+		"unitType": "Armored",
+		"uniqueTo": "The Hunnu",
+		"replaces": "Great General",
+		"upgradesTo": "IFV",
+		"movement": 4,
+		"strength": 20,
+		"cost": 500,
+		"uniques": [
+			//"Low Tech",
+			"[+50]% Strength <vs [Infantry] units>",
+			"[+50]% Strength <vs [Stealth Infantry] units>",
+			"[+50]% Strength <vs [Sniper] units>",
+			"[+50]% Strength <vs [Scout] units>",
+			"[+50]% Strength <vs [Rover] units>",
+			"[-25]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"Can move after attacking",
+			"Great Person - [War]",
+			"Can be earned through combat",
+			"Unbuildable",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["[Khan] ability"],
+		"attackSound": "shot",
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{ "text": "The leader of a nomadic warband of the Hunnu, the Khan (or Khatun, if female) is a capable commander of troops and a fearsome combatant on their own." }
+		]
+	},
+	{
+		"name": "Avatar",
+		"unitType": "Aerocraft",
+		"uniqueTo": "Prasiddh Shahar",
+		"movement": 1,
+		"strength": 25,
+		"rangedStrength": 35,
+		"range": 4,
+		"cost": 125,
+		"upgradesTo": "Beam Fighter",
+		"uniques": [
+			"[100]% chance to intercept air attacks",
+			"[+50]% Strength <vs [non-air] units>",
+			"[+50]% Strength <vs [Air] units>",
+			"[+100]% Damage when intercepting <vs [Air] units>",
+			"[-100]% Strength <vs [Satellite] units> <when attacking>",
+			//"[-100]% Damage when intercepting <vs [Satellite] units>",
+			"Cannot intercept [Satellite] units",
+			"[+25]% Strength <vs cities>",
+			"Can only be built <in cities with a [Aerocraft Hangar]>",
+			"Consumes [1] [Promethine]",
+			"Can only be built <with [Promethine]>",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "bombing",
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{ "text": "This supersonic, high-altitude bomber hugs the low orbit when it's not going on its attack run, which is quite devastating on cities." }
+		]
+	},
+	*/
 ]

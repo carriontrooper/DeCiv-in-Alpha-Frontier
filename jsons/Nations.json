@@ -1,4 +1,7 @@
 /* possible unique units/buildings/improvements for DeCiv nations in Alpha Frontier:
+# Prassidh Shahar: Avatar (UU), Food Lab (UB)
+# Hunnu: Khan (UU, Great Tactician), Yurt Dome (UI)
+
 # Proklyatyye: Decontamination Center (UB), Desolator (UU)
 # New Star: Combat Ambulance (UU), Combat Medic (UU)
 # Hexlock: Great Mad Scientist (UU, Great General), Chemical Refinery Complex (UI)
@@ -812,6 +815,18 @@
 			"Pi-Ramesses",
 			"Giza",
 			"Byblos"
+		],
+		"spyNames": [
+			"Mumia",
+			"Ashanti",
+			"Sundiata",
+			"Kuwasi",
+			"Dhoruba",
+			"Safiya",
+			"Kwaku",
+			"Kom'boa",
+			"Bashir",
+			"Jamal"
 		]
 	},
 	{
@@ -858,6 +873,7 @@
 		"Chelyabinsk-65","Chelyabinsk-115","Alkino-2","Murmansk-60","Svobodnyy-18","Tomsk-7","Murmansk-140","Murmansk-130","Krasnoyarsk-95","Chelyabinsk-40",
 		"Sverdlovsk-45","Chelyabinsk-95","Chelyabinsk-70","Arzamas-60","Shkotovo-26","Krasnoyarsk-35","Naro-Fominsk-5","Kurchatov-21","Penza-19","Novopetrovsk-2",
 		"Arzamas-16","Golitsino-2","Semipalatinsk-16","Krasnoyarsk-25","Shkotovo-22"],
+		"spyNames": ["Redrick", "Victor", "Artyom", "Kirill", "Dr. Kruglov", "Mr. Strugatsky", "Vitalik", "Lebedev", "Letyaga", "Mirsky"],
 		"civilopediaText": [
 			{
 				"text": "Perhaps it would have been better if man had never split the atom. If only we could go back and make it so no one could harness nuclear energy... Maybe then, we would never have burned the world to the ground. Maybe then you would not feel the sickness in your bones. But all that is in the past. We have to live with it now, no? But here is our secret: we can live with it, and they cannot. They have no stomach for radiation. And so this curse upon the land is a blessing to us. The sickness goes before us and destroys our enemies, leaving only us alive. That is not so bad now, is it?"
@@ -867,6 +883,129 @@
 			}
 		]
 	},
+
+	/*
+	{
+		"name": "The Hunnu",
+		"leaderName": "Modu Chanyu",
+		"adjective": ["Hunnu"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		"personality": "Nomadic Raiders",
+		"favoredReligion": "Idolatry",
+	
+		"startIntroPart1": "Sain bainoo, Urga Modu Chanyu of the Hunnu. Your people have survived the wastelands of Old Earth by sticking to the nomadic lifestyle, and you and your people see fit to continue that nomadism into the stars. Riding a salvaged colony ship, the Hunnu continue their nomadic journey into the stars, and maybe on another world.",
+		"startIntroPart2": "Chanyu, your people long to roam the lands once more. Will you roam the expanses of this new world? Can you build a colony that stands the test of time?",
+	
+		"declaringWar": "You stand in the way of my riders. Let's solve this like warriors!",
+		"attacked": "Today, we charge toward your defeat. Expect no mercy.",
+		"defeated": "You've hobbled our clans. My respect for you nearly matches the loathing. Go ahead and finish me off.",
+		"introduction": "I am Modu, leader of the Hunnu, uniter of clans. Come join with us.",
+		"neutralHello": "Hello.",
+		"hateHello": "So what now?",
+		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
+	
+		"outerColor": [81,0,9],
+		"innerColor": [255,120,0],
+		"uniqueName": "Ride or Die",
+		"uniques": [
+			//"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"When defeating a [Enemy] unit, earn [10] Gold and recruit it <with [33]% chance>",
+			"[+25]% Strength <vs [Barbarian] units>",
+			"[Military] units gain the [Hang-Around] promotion",
+			"Cities are razed [2] times as fast",
+			//"Starts with [Redomestication]",
+			"\"Borrows\" city names from other civilizations in the game"
+		],
+		"cities": ["New Otuken"],
+		"spyNames": ["Gala", "Jaya", "Enkush", "Temka", "Ono", "Jamba", "Davaa", "Odko", "Batkhuu", "Tuga"],
+		"civilopediaText": [
+			{
+				"text": "Brothers, you've always known what it's like to ride high and live free. I know it, you know it, but more importantly, our ancestors knew it. They rode across these lands with pride, and no one could stop them. They started out like us, just a loose band of tribes working together, but they became the largest empire in the world. It's time for us to do the same. We haven't got any fuel left for our bikes, but we've got horses, and if that was good enough for them, then it's good enough for us."
+			},
+			{
+				"text": "The world is broken right now, but we can put it back together, and those who come after us will know that we were the ones who won the war and brought lasting peace. Everyone will join with us or fall before us. Saddle up, brothers. It's time to ride."
+			}
+		]
+	},
+	{
+		"name": "Prasiddh Shahar",
+		"leaderName": "Maharishi Janaka",
+		"adjective": "Prasiddh",
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Nomadic Spacer",
+
+		"startIntroPart1": "Pranam, Maharishi Janaka of the Prassidh Shahar. Your people have survived the fall of Old Earth by escaping to the stars, a rare feat before the catacylsm. Spread among the stars, some of your people tried to return to Old Earth, some continued their stellar wanderings, and yet others look towards new worlds to settle.",
+		"startIntroPart2": "Janaka, your people are the ones who decided to settle on another planet. Will they prosper and avoid the mistakes of Old Earth? Can you build a colony that stands the test of time?",
+	
+		"declaringWar": "We will rid you from this planet, and any other planets we can find.",
+		"attacked": "You will learn the hard way that we have returned fully prepared for war.",
+		"defeated": "Is this world always doomed to suffer war? Surely we can do better than this...",
+		"introduction": "Greetings! I wish we could meet under better circumstances, but this will do.",
+	
+		"neutralHello": "I wish you peace.",
+		"hateHello": "What do you want?",
+	
+		"tradeRequest": "My friend, are you interested in this arrangement?",
+	
+		"outerColor": [255, 163, 71],
+		"innerColor": [14, 113, 4],
+		"uniqueName": "Fallen to Earth",
+		"uniques": [
+			"[+1] Sight <for [Aerocraft] units>",
+			"[+1] Range <for [Aerocraft] units>",
+			/*
+			"Comment [Triggers a Landing event upon entering a new era]",
+			"Triggers a [Landing Event - Neofeudal era] event <upon entering the [Neofeudal era]> <hidden from users>",
+			"Triggers a [Landing Event - Rebuilding era] event <upon entering the [Rebuilding era]> <hidden from users>",
+			"Triggers a [Landing Event - Industrial era] event <upon entering the [Industrial era]> <hidden from users>",
+			"Triggers a [Landing Event - Postmodern era] event <upon entering the [Postmodern era]> <hidden from users>",
+			"Triggers a [Landing Event - Information era] event <upon entering the [Information era]> <hidden from users>",
+			"Triggers a [Landing Event - New Future era] event <upon entering the [New Future era]> <hidden from users>",
+			"Triggers a [Landing Event - Singularity era] event <upon entering the [Singularity era]> <hidden from users>",
+			"Starts with [Writing]",
+			"Starts with [Construction]",
+			"Starts with [Machinery]",
+			"[-2 Science] [in all cities] <before discovering [Education]>",
+			"[-10]% growth [in all cities] <before discovering [Refrigeration]>",
+			*/
+			"Provides a [Orbital Launch Facility] in your first [3] cities for free <upon discovering [Payload Delivery] technology>"
+		],
+		"cities": [
+			"Taranagaram",
+			"Karanodaka",
+			"Siddhashrama",
+			"Alakapuri",
+			"Patala",
+			"Manidvipa",
+			"Trikuta",
+			"Mainaka",
+			"Brahmavarta",
+			"Amaravati",
+			"Panchapsaras",
+			"Vaikuntha",
+			"Tripura",
+			"Mahameru",
+			"Himavanta",
+			"Vaikuntha",
+			"Dvaitavana",
+			"Plaksadvipa",
+			"Bhogavati",
+			"Naraka",
+			"Brahmaloka",
+			"Ashoka Vatika",
+			"Vaitarani",
+			"Mandara",
+			"Svarga",
+			"Prithvi Mata",
+			"Kshira Sagara",
+			"Kailasa",
+			"Lokaloka"
+		],
+		"spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
+	},
+	*/
 	
 	// Outposts
 	// Cultural
@@ -1055,5 +1194,17 @@
 		"outerColor": [50, 50, 50],
 		"innerColor": [222, 116, 55],
 		"cities": ["Dahomeyville"]
+	}
+	{
+		"name": "Guiyu",
+		"adjective": ["Guiyu"],
+		"cityStateType": "Industrial",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We will carry on, though you now reign over us. We only ask that you heal these poisoned lands.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 116, 55],
+		"cities": ["Guiyu"]
 	}
 ]
