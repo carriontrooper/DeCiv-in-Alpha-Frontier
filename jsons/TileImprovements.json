@@ -58,4 +58,33 @@
 			{ "text": "A sprawling mess of chemical facilities that distill Hexlock's special secret mix of chemicals." }
 		]
 	}
+	/*
+	{
+		"name": "Yurt Dome",
+		"uniqueTo": "The Hunnu",
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert"],
+		"food": 1,
+		"production": 1,
+		"turnsToBuild": 7,
+		"uniques": [
+			"[+1 Food] for each adjacent [Enclosure]",
+			"[+1 Food] <after discovering [Hab-Domes]>",
+			"[+1 Production, +1 Food] <after discovering [Genetics]>",
+			"[+1 Faith] <after discovering [Research Networks]>",
+			"Unbuildable <in [resource] tiles>",
+			"Unbuildable <in tiles adjacent to [Yurt Dome] tiles>"
+		],
+		"shortcutKey": "Z",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Yurt Dome",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{ "text": "A small, modular dome that is highly portable. Its true marvel is its portable life support system, which is easy and fast to set up." }
+		]
+	},
+	*/
 ]
