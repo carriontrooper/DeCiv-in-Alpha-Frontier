@@ -66,6 +66,18 @@
 			"Light Otis",
 			"Meckenberg"
 		],
+		"spyNames": [
+			"Henry",
+			"Jim",
+			"Clarice",
+			"Juliet",
+			"Ashlee",
+			"Robyn",
+			"Ben",
+			"Jodie",
+			"Harvey",
+			"Juno"
+		],
 		"civilopediaText": [
 			{
 				"text": "'When the Cataclysm happened, there were many that felt lost. Like the world was too far gone. I always had hope, but sometimes it's hard to keep it. Ever since we came out, the world has felt like a jungle. Ruled by wild beasts.'"
@@ -126,6 +138,18 @@
 			"Qrephel",
 			"Mabelcut",
 			"Prawrie"
+		],
+		"spyNames": [
+			"Claude",
+			"Eliza",
+			"Watson",
+			"Kismet",
+			"Siri",
+			"Asimo",
+			"Bert",
+			"Neil",
+			"Alice",
+			"Nadine"
 		],
 		"civilopediaText": [
 			{
@@ -192,7 +216,19 @@
 			"Rock Falls",
 			"Kismet",
 			"Waterville"
-		]
+		],
+		"spyNames": [
+			"Bloodstar",
+			"Ghost Runner",
+			"Peacespeaker",
+			"Stained Bird",
+			"Screaming Eagle",
+			"Six Scars",
+			"Red Hammer",
+			"Thunder Hawk",
+			"Kicking Wing",
+			"Black Bull"
+		],
 	},
 	{
 		"name": "Blackwarden",
@@ -245,6 +281,18 @@
 			"Sunk Cost",
 			"Forbes",
 			"Cornucopia"
+		],
+		"spyNames": [
+			"Al",
+			"Cofer",
+			"Richer",
+			"Ashcroft",
+			"Quinn",
+			"Bonfiglio",
+			"Danielle",
+			"Inman",
+			"Robinson",
+			"Folsom"
 		],
 		"civilopediaText": [
 			{
@@ -307,6 +355,18 @@
 			"Zenith",
 			"Von Neumann Institute"
 		],
+		"spyNames": [
+			"Dagny",
+			"Rearden",
+			"Wyatt",
+			"Akston",
+			"Danagger",
+			"Midas",
+			"Kay",
+			"Quentin",
+			"Halley",
+			"Allen"
+		],
 		"civilopediaText": [
 			{
 				"text": "At the Refuge, I am creating more than a town, more even than a polity; it is a new world, where individuals will be free to act without the burden of taxation or the specter of injustice. Here, I have created a truly voluntary society, where the citizens associate in rational self interest; from love, not from fear of punishment. I have sent you this invitation because you have greatness within you; think of all you have achieved in your life, and how much more you could do, if you were not held back."
@@ -342,7 +402,7 @@
 			"[+50]% [Culture] from City-States",
 			"[+50]% [Faith] from City-States",
 			"Military Units gifted from City-States start with [+10] XP",
-			"[Great General] is earned [33]% faster",
+			"[Great General] is earned [33]% faster"
 			//"Starts with [Redomestication]"
 		],
 		"cities": [
@@ -376,6 +436,18 @@
 			"Portville",
 			"Hamelin",
 			"High Gate"
+		],
+		"spyNames": [
+			"Jean",
+			"Pascal",
+			"Henri",
+			"Otto",
+			"Elise",
+			"Heinrich",
+			"Dietrich",
+			"Ivanoe",
+			"Pietro",
+			"Ugo"
 		]
 	},
 	{
@@ -437,6 +509,18 @@
 			"Fort Granite",
 			"Liberator Station",
 			"Camp Dawn"
+		],
+		"spyNames": [
+			"Ryan",
+			"Dirk",
+			"Fisher",
+			"Kurt",
+			"Ding",
+			"Isaac",
+			"Hansen",
+			"Dorn",
+			"Briggs",
+			"Remi"
 		]
 	},
 	{
@@ -503,6 +587,18 @@
 			"Skousen Ranch",
 			"30-50 Feral Hogs"
 		],
+		"spyNames": [
+			"Gummer",
+			"Krantz",
+			"Cawdor",
+			"Neville",
+			"Eli",
+			"Quinelle",
+			"Rouke",
+			"Redeker",
+			"Verney",
+			"Brown"
+		],
 		"civilopediaText": [
 			{
 				"text": "Take a look out there, kid. There used to be green trees everywhere, and bright blue water, and white snow on the mountain tops. I know it's hard for you to believe, but there was a time when everything wasn't covered in ash. But those dumb sons of bitches had to go and ruin it all. They didn't know how good they had it, and they killed themselves. But they didn't kill us. Know why? Because we knew how to survive, that's why. We knew how to make do with less, how to hide when they came hunting, and how to hit them where it hurt. That's why we're still here. And that's why we're going to keep living."
@@ -566,6 +662,18 @@
 			"Straight Flush",
 			"Five Aces",
 			"Show Low"
+		],
+		"spyNames": [
+			"Bugsy",
+			"Whitey",
+			"Soapy",
+			"Mickey",
+			"Babyface",
+			"Ducks",
+			"Chin",
+			"Bomp",
+			"Owney",
+			"Lilo"
 		]
 	},
 	{
@@ -624,6 +732,18 @@
 			"Corpus Vile",
 			"Canis Canem Edit",
 			"Ad Astra"
+		],
+		"spyNames": [
+			"Vulpes",
+			"Cato",
+			"Alerio",
+			"Caius",
+			"Ulysses",
+			"Silus",
+			"Picus",
+			"Aurelius",
+			"Severus",
+			"Livius"
 		],
 		"civilopediaText": [
 			{
@@ -690,6 +810,18 @@
 			"Death Race",
 			"God Box"
 		],
+		"spyNames": [
+			"Rictus",
+			"Scabrous",
+			"Rizzdale",
+			"Fang",
+			"Smeg",
+			"Nux",
+			"Slit",
+			"Morsov",
+			"Wez",
+			"Zanetti"
+		],
 		"civilopediaText": [
 			{
 				"text": "In the beginning, the earth was without form, cold and void. And the Divine Engine moved upon the face of the earth, and brought forth humans, to serve her. And she blessed the people upon the earth with steel and holy oil, to make engines of their own. But the people of the earth forgot the Divine Engine who had blessed them. So the Engine sent forth the Flame to destroy the people who had sinned, and the earth was cleansed. But the Flame had mercy upon the people, and spared the people who repented and swore to serve the Engine. And it came to pass that Divine Engine blessed the people once more, and gave them steel and holy oil, and commanded them to multiply and replenish the earth, for the engine's glory."
@@ -748,6 +880,18 @@
 			"Giuntoli Bay",
 			"Whalen Cove",
 			"Arenberg Fjord"
+		],
+		"spyNames": [
+			"Enola",
+			"Gregor",
+			"Sawzall",
+			"Priam",
+			"Bone",
+			"Toby",
+			"Smitty",
+			"Djeng",
+			"Truan",
+			"Ledger"
 		]
 	},
 	{
