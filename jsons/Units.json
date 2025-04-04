@@ -549,6 +549,7 @@
 			"Great Person - [War]",
 			"Can be earned through combat",
 			"Unbuildable",
+			"Uncapturable",
 			"Never appears as a Barbarian unit"
 		],
 		"promotions": ["[Khan] ability"],
