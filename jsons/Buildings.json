@@ -336,7 +336,7 @@
 			}
 		]
 	},
-	/*
+	
 	{
 		"name": "Food Lab",
 		//"replaces": "Food Store",
@@ -358,5 +358,5 @@
 			}
 		]
 	},
-	*/
+	
 ]

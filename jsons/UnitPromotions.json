@@ -128,7 +128,7 @@
 		"row": 119,
 		"column": 0
 	},
-	/*
+	
 	{
 		"name": "Hang-Around",
 		"uniques": ["[This Unit] gains the [Prospect] promotion <upon defeating a [Military] unit>"],
@@ -181,5 +181,5 @@
 		"row": 135,
 		"column": 0
 	}
-	*/
+	
 ]

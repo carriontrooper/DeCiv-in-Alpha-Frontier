@@ -526,7 +526,7 @@
 			{ "text": "These soldiers don heavy radiation-resistant exoskeletons and wield a weaponized Ulframite-powered radiation emitter. They've volunteered at the cost of shortening their lifespans." }
 		]
 	},
-	/*
+	
 	{
 		"name": "Khan",
 		"unitType": "Armored",
@@ -592,6 +592,6 @@
 			},
 			{ "text": "This supersonic, high-altitude bomber hugs the low orbit when it's not going on its attack run, which is quite devastating on cities." }
 		]
-	},
-	*/
+	}
+	
 ]
