@@ -97,28 +97,28 @@ BuildingIcons/Personnel Office
   index: -1
 BuildingIcons/Salvage Yard
   rotate: false
-  xy: 1408, 278
+  xy: 1516, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Seastead
   rotate: false
-  xy: 1408, 170
+  xy: 1516, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Survey Center
   rotate: false
-  xy: 1624, 386
+  xy: 1408, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Training Range
   rotate: false
-  xy: 1624, 278
+  xy: 1516, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -146,7 +146,7 @@ ResourceIcons/Narcotics
   index: -1
 ImprovementIcons/Yurt Dome
   rotate: false
-  xy: 1624, 170
+  xy: 1840, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -235,23 +235,37 @@ NationIcons/New Star
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Proklyatyye
+NationIcons/Prasiddh Shahar
   rotate: false
   xy: 1408, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Proklyatyye
+  rotate: false
+  xy: 1192, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Hunnu
+  rotate: false
+  xy: 1516, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/The Mariners
   rotate: false
-  xy: 1408, 61
+  xy: 1624, 277
   size: 100, 101
   orig: 100, 101
   offset: 0, 0
   index: -1
 NationIcons/The Patriots
   rotate: false
-  xy: 1516, 170
+  xy: 1732, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -328,7 +342,7 @@ ReligionIcons/Polytheism
   index: -1
 ReligionIcons/Rastafari
   rotate: false
-  xy: 1192, 62
+  xy: 1300, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -342,140 +356,140 @@ ResourceIcons/Hexlock Chemicals
   index: -1
 TileSets/FantasyHex/Tiles/Chemical Refinery Complex
   rotate: false
-  xy: 1790, 338
+  xy: 1624, 63
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Narcoponics
   rotate: false
-  xy: 1790, 230
+  xy: 570, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Yurt Dome
   rotate: false
-  xy: 556, 22
+  xy: 850, 22
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Colonial Ranger
   rotate: false
-  xy: 1840, 400
+  xy: 1682, 133
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Combat Ambulance
   rotate: false
-  xy: 1624, 76
+  xy: 1732, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Combat Medic
   rotate: false
-  xy: 1682, 134
+  xy: 1790, 242
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Contractor
   rotate: false
-  xy: 1732, 176
+  xy: 1840, 292
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Desolator
   rotate: false
-  xy: 236, 26
+  xy: 1898, 350
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Exoframe Legionnaire
   rotate: false
-  xy: 1790, 302
+  xy: 1948, 400
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Mad Scientist
   rotate: false
-  xy: 1880, 400
+  xy: 2006, 458
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Guerilla
   rotate: false
-  xy: 276, 26
+  xy: 410, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Khan
   rotate: false
-  xy: 1790, 266
+  xy: 450, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine
   rotate: false
-  xy: 1920, 400
+  xy: 490, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Narco Smuggler
   rotate: false
-  xy: 316, 26
+  xy: 530, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Panther
   rotate: false
-  xy: 1960, 400
+  xy: 610, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer
   rotate: false
-  xy: 356, 26
+  xy: 650, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rover Surveyor
   rotate: false
-  xy: 396, 26
+  xy: 690, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scavenger
   rotate: false
-  xy: 436, 26
+  xy: 730, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spec Ops
   rotate: false
-  xy: 476, 26
+  xy: 770, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/War Buggy
   rotate: false
-  xy: 516, 26
+  xy: 810, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -573,28 +587,28 @@ UnitIcons/Panther
   index: -1
 UnitIcons/Rover Surveyor
   rotate: false
-  xy: 1300, 170
+  xy: 1408, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Scavenger
   rotate: false
-  xy: 1300, 62
+  xy: 1408, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spec Ops
   rotate: false
-  xy: 1516, 278
+  xy: 1624, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/War Buggy
   rotate: false
-  xy: 1732, 386
+  xy: 1624, 169
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -622,42 +636,42 @@ UnitPromotionIcons/Colonial Ranger Training
   index: -1
 UnitPromotionIcons/Drone Recon
   rotate: false
-  xy: 1732, 328
+  xy: 1624, 111
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Full Patch
   rotate: false
-  xy: 1840, 436
+  xy: 1732, 220
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Gas Filter
   rotate: false
-  xy: 1624, 112
+  xy: 1840, 328
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hang-Around
   rotate: false
-  xy: 62, 4
+  xy: 1948, 436
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hazard Pay
   rotate: false
-  xy: 1732, 270
+  xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hill Guerillas
   rotate: false
-  xy: 1898, 436
+  xy: 120, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -671,42 +685,42 @@ UnitPromotionIcons/Legionnaire Training
   index: -1
 UnitPromotionIcons/One Percent
   rotate: false
-  xy: 120, 4
+  xy: 178, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Prospect
   rotate: false
-  xy: 1732, 212
+  xy: 236, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Radioactive
   rotate: false
-  xy: 1956, 436
+  xy: 294, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Raider
   rotate: false
-  xy: 178, 4
+  xy: 352, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Scav Training
   rotate: false
-  xy: 1516, 386
+  xy: 1300, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/War Buggy Crew
   rotate: false
-  xy: 1516, 62
+  xy: 1732, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
