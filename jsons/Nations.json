@@ -1054,7 +1054,7 @@
 		"uniqueName": "Ride or Die",
 		"uniques": [
 			//"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
-			"When defeating a [{Enemy}{Non-[Xeno]}] unit, earn [10] Gold and recruit it <with [33]% chance>",
+			"When defeating a [{Enemy}{non-[Xeno]}] unit, earn [10] Gold and recruit it <with [33]% chance>",
 			"[+25]% Strength <vs [Barbarian] units>",
 			"[Military] units gain the [Hang-Around] promotion",
 			"Cities are razed [2] times as fast",
