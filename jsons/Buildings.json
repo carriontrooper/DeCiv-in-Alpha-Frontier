@@ -132,7 +132,7 @@
 		"hurryCostModifier": 25,
 		"uniques": [
 			"New [Military] units start with [15] XP [in this city]",
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"[+1 Happiness, +1 Culture] [in this city] <with [Stimulants]>",
 			//"Only available <in cities without a [Prison Camp]>",
 			"Destroyed when the city is captured"
