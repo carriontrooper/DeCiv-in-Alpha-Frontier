@@ -879,13 +879,13 @@
 		//"style": "Tribal",
 		"uniqueName": "People of the Sea",
 		"uniques": [
+			"Seaborne Faction",
 			"Enables embarkation for land units",
 			"Enables [All] units to enter ocean tiles",
 			"[1] Movement point cost to disembark <for [All] units>",
 			"[+100]% Strength <when defending> <when [Embarked]> <for [All] units>",
 			"[Infantry] units gain the [Amphibious] promotion",
 			"[Stealth Infantry] units gain the [Amphibious] promotion",
-			"Starts with [Hovercrafts]",
 			"[Colonizer] units gain the [Amphibious Colonizer] promotion",
 			"All newly-trained [Colonizer] units [in all cities] receive the [Amphibious Colonizer] promotion",
 			"Starts with [Hydrodynamics]"
