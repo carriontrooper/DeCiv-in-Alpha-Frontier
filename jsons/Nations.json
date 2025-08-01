@@ -885,6 +885,7 @@
 			"[+100]% Strength <when defending> <when [Embarked]> <for [All] units>",
 			"[Infantry] units gain the [Amphibious] promotion",
 			"[Stealth Infantry] units gain the [Amphibious] promotion",
+			"Starts with [Hovercrafts]",
 			"[Colonizer] units gain the [Amphibious Colonizer] promotion",
 			"All newly-trained [Colonizer] units [in all cities] receive the [Amphibious Colonizer] promotion",
 			"Starts with [Hydrodynamics]"
