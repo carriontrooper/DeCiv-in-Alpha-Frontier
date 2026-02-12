@@ -594,5 +594,35 @@
 			{ "text": "This supersonic, high-altitude bomber hugs the low orbit when it's not going on its attack run, which is quite devastating on cities." }
 		]
 	}
-	
+
+	/*
+	{
+		"name": "Calamity Star Bomb",
+		"uniqueTo": "Calamity Star Order",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 2000,
+		"rangedStrength": 2000,
+		"range": 18,
+		"cost": 2000,
+		"requiredTech": "Orbital Deterrents",
+		"uniques": [
+			"[+100]% Strength <when attacking>",
+			"Nuclear weapon of Strength [3]",
+			"Blast radius [3]",
+			"[+300]% Strength <vs [non-air] units>",
+			"[-100]% Strength <vs [Satellite] units> <when attacking>",
+			"Only available <if [Samson Option] is constructed>",
+			"Consumes [3] [Ulframite]",
+			"Can only be built <with [Ulframite]>",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "nuke",
+		"civilopediaText": [
+			{
+				"text": "Insidiously small, it is guaranteed to deliver calamity upon the deserving, and then some."
+			}
+		]
+	},
+	*/
 ]
