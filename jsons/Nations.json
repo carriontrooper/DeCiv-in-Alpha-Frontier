@@ -1385,6 +1385,18 @@
 		"innerColor": [55, 200, 222],
 		"cities": ["Fo Guang Shan"]
 	},
+	{
+		"name": "Order of the Dark Truth",
+		"adjective": ["Truther"],
+		"cityStateType": "Religious",
+		
+		"declaringWar": "We see your little shadows painting the floor, cowering in fear!",
+		"attacked": "Dark judgment falls upon you now.",
+		"defeated": "You cannot stop the Great Message from coming.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [55, 200, 222],
+		"cities": ["Truth's Gate"]
+	},
 	// Scientific
 	{
 		"name": "The Archive",
@@ -1422,7 +1434,7 @@
 		"outerColor": [50, 50, 50],
 		"innerColor": [222, 116, 55],
 		"cities": ["Dahomeyville"]
-	}
+	},
 	{
 		"name": "Guiyu",
 		"adjective": ["Guiyu"],
