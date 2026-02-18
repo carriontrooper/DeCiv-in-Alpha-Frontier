@@ -595,7 +595,6 @@
 		]
 	}
 
-	/*
 	{
 		"name": "Calamity Star Bomb",
 		"uniqueTo": "Calamity Star Order",
@@ -623,6 +622,5 @@
 				"text": "Insidiously small, it is guaranteed to deliver calamity upon the deserving, and then some."
 			}
 		]
-	},
-	*/
+	}
 ]
